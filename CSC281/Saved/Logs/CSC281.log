@@ -18953,3 +18953,14 @@ Script Stack (1 frames) :
 [2023.10.28-11.36.20:171][991]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=96
 [2023.10.28-11.36.20:175][991]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
 [2023.10.28-11.36.20:229][994]LogPlayLevel: Display: Destroying online subsystem :Context_127
+[2023.10.28-11.37.35:312][438]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.10.28-11.37.35:318][438]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Map_1_Auto4
+[2023.10.28-11.37.35:319][438]LogSavePackage: Moving '../../../../../../Users/Logan Weist/Documents/Unreal Projects/CSC281/CSC281/Saved/Map_1_Auto4840DB7744FD70C8F733F13A6D15BC817.tmp' to '../../../../../../Users/Logan Weist/Documents/Unreal Projects/CSC281/CSC281/Saved/Autosaves/Game/Maps/Map_1_Auto4.umap'
+[2023.10.28-11.37.35:321][438]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/Logan Weist/Documents/Unreal Projects/CSC281/CSC281/Saved/Autosaves/Game/Maps/Map_1_Auto4.umap is in the /Temp path, will not scan.
+[2023.10.28-11.37.35:321][438]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Map_1' took 0.020
+[2023.10.28-11.37.35:321][438]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.020
+[2023.10.28-11.37.35:321][438]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_SpriteCharacter] ([2] browsable assets)...
+[2023.10.28-11.37.35:321][438]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_SpriteCharacter]
+[2023.10.28-11.37.35:331][438]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_SpriteCharacter_Auto4
+[2023.10.28-11.37.35:332][438]LogSavePackage: Moving '../../../../../../Users/Logan Weist/Documents/Unreal Projects/CSC281/CSC281/Saved/BP_SpriteCharacter_Auto44B89C1BB4009674B9BB170A3607CD50A.tmp' to '../../../../../../Users/Logan Weist/Documents/Unreal Projects/CSC281/CSC281/Saved/Autosaves/Game/Blueprints/BP_SpriteCharacter_Auto4.uasset'
+[2023.10.28-11.37.35:333][438]LogFileHelpers: Auto-saving content packages took 0.012
