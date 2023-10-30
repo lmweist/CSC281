@@ -945,3 +945,215 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.30-09.36.21:837][  0]LogMeshReduction: Display: Using ProxyLODMeshReduction for automatic mesh merging
 [2023.10.30-09.36.21:837][  0]LogMeshReduction: Display: No distributed automatic mesh merging module available
 [2023.10.30-09.36.21:837][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.10.30-09.36.22:327][  0]LogVirtualization: Display: VirtualizationSystem name found in ini file: None
+[2023.10.30-09.36.22:327][  0]LogVirtualization: Display: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.10.30-09.36.22:335][  0]LogUObjectArray: 21917 objects as part of root set at end of initial load.
+[2023.10.30-09.36.22:335][  0]LogUObjectAllocator: 6142544 out of 0 bytes used by permanent object pool.
+[2023.10.30-09.36.22:335][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.10.30-09.36.22:341][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.10.30-09.36.22:341][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.10.30-09.36.22:342][  0]LogLiveCoding: Display: First instance in process group "UE_CSC281_0xe8124b78", spawning console
+[2023.10.30-09.36.22:347][  0]LogLiveCoding: Display: Waiting for server
+[2023.10.30-09.36.22:369][  0]LogSlate: Border
+[2023.10.30-09.36.22:369][  0]LogSlate: BreadcrumbButton
+[2023.10.30-09.36.22:369][  0]LogSlate: Brushes.Title
+[2023.10.30-09.36.22:369][  0]LogSlate: Default
+[2023.10.30-09.36.22:369][  0]LogSlate: Icons.Save
+[2023.10.30-09.36.22:369][  0]LogSlate: Icons.Toolbar.Settings
+[2023.10.30-09.36.22:369][  0]LogSlate: ListView
+[2023.10.30-09.36.22:369][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.10.30-09.36.22:369][  0]LogSlate: SoftwareCursor_Grab
+[2023.10.30-09.36.22:369][  0]LogSlate: TableView.DarkRow
+[2023.10.30-09.36.22:369][  0]LogSlate: TableView.Row
+[2023.10.30-09.36.22:369][  0]LogSlate: TreeView
+[2023.10.30-09.36.22:504][  0]LogWorldPartition: Display: FWorldPartitionClassDescRegistry::Initialize started...
+[2023.10.30-09.36.22:505][  0]LogWorldPartition: Display: FWorldPartitionClassDescRegistry::Initialize took 1 ms
+[2023.10.30-09.36.22:530][  0]LogInit: XR: Instanced Stereo Rendering is Disabled
+[2023.10.30-09.36.22:530][  0]LogInit: XR: MultiViewport is Disabled
+[2023.10.30-09.36.22:530][  0]LogInit: XR: Mobile Multiview is Disabled
+[2023.10.30-09.36.22:596][  0]LogTurnkeySupport: Completed device detection: Code = 0
+[2023.10.30-09.36.22:858][  0]LogPython: Using Python 3.9.7
+[2023.10.30-09.36.22:982][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.10.30-09.36.23:508][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.10.30-09.36.23:513][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.10.30-09.36.23:516][  0]LogUdpMessaging: Display: Added local interface '192.168.1.114' to multicast group '230.0.0.1:6666'
+[2023.10.30-09.36.23:516][  0]LogUdpMessaging: Display: Added local interface '192.168.56.1' to multicast group '230.0.0.1:6666'
+[2023.10.30-09.36.23:540][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 31DDC1A44991CB888D23278204EA2B6F | Instance: 4790373B48D5125BC3F622A2ED39FBFC (DESKTOP-RTPN8AR-31108).
+[2023.10.30-09.36.23:733][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.10.30-09.36.23:755][  0]LogMetasoundEngine: MetaSound Engine Initialized
+[2023.10.30-09.36.24:112][  0]LogOpenImageDenoise: OIDN starting up
+[2023.10.30-09.36.24:338][  0]SourceControl: Revision control is disabled
+[2023.10.30-09.36.24:341][  0]LogUProjectInfo: Found projects:
+[2023.10.30-09.36.24:505][  0]SourceControl: Revision control is disabled
+[2023.10.30-09.36.24:535][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.10.30-09.36.24:557][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.10.30-09.36.24:558][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.10.30-09.36.24:790][  0]LogCollectionManager: Loaded 0 collections in 0.001015 seconds
+[2023.10.30-09.36.24:792][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Logan Weist/Documents/Unreal Projects/CSC281/CSC281/Saved/Collections/' took 0.00s
+[2023.10.30-09.36.24:793][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Logan Weist/Documents/Unreal Projects/CSC281/CSC281/Content/Developers/LoganWeist/Collections/' took 0.00s
+[2023.10.30-09.36.24:795][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Logan Weist/Documents/Unreal Projects/CSC281/CSC281/Content/Collections/' took 0.00s
+[2023.10.30-09.36.25:164][  0]LogEngine: Initializing Engine...
+[2023.10.30-09.36.25:168][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.10.30-09.36.25:321][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.10.30-09.36.25:327][  0]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.30-09.36.25:327][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.30-09.36.25:332][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.10.30-09.36.25:333][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.10.30-09.36.25:333][  0]LogInit: Texture streaming: Enabled
+[2023.10.30-09.36.25:347][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.3.1-28051148+++UE5+Release-5.3
+[2023.10.30-09.36.25:354][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.10.30-09.36.25:364][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.10.30-09.36.25:364][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.10.30-09.36.25:365][  0]LogAudio: Display: AudioInfo: 'BINKA' Registered
+[2023.10.30-09.36.25:365][  0]LogAudio: Display: AudioInfo: 'PCM' Registered
+[2023.10.30-09.36.25:365][  0]LogAudio: Display: AudioInfo: 'ADPCM' Registered
+[2023.10.30-09.36.25:365][  0]LogAudio: Display: AudioInfo: 'OGG' Registered
+[2023.10.30-09.36.25:365][  0]LogAudio: Display: AudioInfo: 'OPUS' Registered
+[2023.10.30-09.36.25:366][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.10.30-09.36.25:366][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.10.30-09.36.25:366][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.30-09.36.25:366][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.30-09.36.25:366][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.30-09.36.25:366][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.30-09.36.25:366][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.30-09.36.25:366][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.30-09.36.25:366][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.30-09.36.25:366][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.30-09.36.25:366][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.30-09.36.25:366][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.30-09.36.25:366][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.30-09.36.25:372][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.30-09.36.25:438][  0]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- Arctis 7+)
+[2023.10.30-09.36.25:438][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.30-09.36.25:442][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.30-09.36.25:442][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.30-09.36.25:442][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.10.30-09.36.25:442][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.30-09.36.25:443][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.30-09.36.25:443][  0]LogInit: FAudioDevice initialized with ID 1.
+[2023.10.30-09.36.25:443][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.10.30-09.36.25:443][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.10.30-09.36.25:443][  0]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 1
+[2023.10.30-09.36.25:456][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.10.30-09.36.25:459][  0]LogInit: Undo buffer set to 32 MB
+[2023.10.30-09.36.25:459][  0]LogInit: Transaction tracking system initialized
+[2023.10.30-09.36.25:515][  0]LogSourceControl: Display: Uncontrolled Changelist persistency file loaded ../../../../../../Users/Logan Weist/Documents/Unreal Projects/CSC281/CSC281/Saved/SourceControl/UncontrolledChangelists.json
+[2023.10.30-09.36.25:515][  0]LogSourceControl: Uncontrolled asset enumeration started...
+[2023.10.30-09.36.25:524][  0]BlueprintLog: New page: Editor Load
+[2023.10.30-09.36.25:535][  0]LogSourceControl: Uncontrolled asset enumeration finished in 0.020289 seconds (Found 134 uncontrolled assets)
+[2023.10.30-09.36.25:611][  0]LocalizationService: Localization service is disabled
+[2023.10.30-09.36.25:632][  0]TimingProfiler: Initialize
+[2023.10.30-09.36.25:632][  0]TimingProfiler: OnSessionChanged
+[2023.10.30-09.36.25:632][  0]LoadingProfiler: Initialize
+[2023.10.30-09.36.25:632][  0]LoadingProfiler: OnSessionChanged
+[2023.10.30-09.36.25:632][  0]NetworkingProfiler: Initialize
+[2023.10.30-09.36.25:632][  0]NetworkingProfiler: OnSessionChanged
+[2023.10.30-09.36.25:632][  0]MemoryProfiler: Initialize
+[2023.10.30-09.36.25:632][  0]MemoryProfiler: OnSessionChanged
+[2023.10.30-09.36.25:832][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Logan Weist/Documents/Unreal Projects/CSC281/CSC281/Content/' took 0.01s
+[2023.10.30-09.36.25:957][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.10.30-09.36.26:032][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.10.30-09.36.26:033][  0]SourceControl: Revision control is disabled
+[2023.10.30-09.36.26:033][  0]LogUnrealEdMisc: Loading editor; pre map load, took 8.121
+[2023.10.30-09.36.26:034][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Logan Weist/Documents/Unreal Projects/CSC281/CSC281/Content/Maps/Map_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.10.30-09.36.26:034][  0]LightingResults: New page: Lighting Build
+[2023.10.30-09.36.26:036][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.10.30-09.36.26:036][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.30-09.36.26:036][  0]MapCheck: New page: Map Check
+[2023.10.30-09.36.26:036][  0]LightingResults: New page: Lighting Build
+[2023.10.30-09.36.26:039][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.30-09.36.26:041][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.10.30-09.36.26:110][  0]LogAssetRegistry: Display: Triggering cache save on discovery complete
+[2023.10.30-09.36.26:492][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map_1'.
+[2023.10.30-09.36.26:492][  0]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.30-09.36.26:492][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.30-09.36.26:492][  0]LogAIModule: Creating AISystem for world Map_1
+[2023.10.30-09.36.26:495][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.10.30-09.36.26:500][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.10.30-09.36.26:501][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.10.30-09.36.26:501][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.193ms to complete.
+[2023.10.30-09.36.26:514][  0]LogUnrealEdMisc: Total Editor Startup Time, took 8.602
+[2023.10.30-09.36.26:514][  0]LogShaderCompilers: Display: ================================================
+[2023.10.30-09.36.26:514][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.30-09.36.26:514][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.10.30-09.36.26:514][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.10.30-09.36.26:514][  0]LogShaderCompilers: Display: RAM used: 240.00 B of 1.60 GiB budget. Usage: 0.00%
+[2023.10.30-09.36.26:514][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.30-09.36.26:515][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.10.30-09.36.26:515][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2023.10.30-09.36.26:515][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.10.30-09.36.26:515][  0]LogShaderCompilers: Display: ================================================
+[2023.10.30-09.36.26:614][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.30-09.36.26:621][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.30-09.36.26:629][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.30-09.36.26:637][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.30-09.36.26:672][  0]LogAssetRegistry: Display: Asset registry cache written as 16.7 MiB to ../../../../../../Users/Logan Weist/Documents/Unreal Projects/CSC281/CSC281/Intermediate/CachedAssetRegistry_*.bin
+[2023.10.30-09.36.26:703][  0]LogTurnkeySupport: Turnkey Device: Win64@DESKTOP-RTPN8AR: (Name=DESKTOP-RTPN8AR, Type=Computer, Status=Valid, MinAllowed=10.0.18362.0, MaxAllowed=, Current=10.0.19045.0, Flags="Device_InstallSoftwareValid")
+[2023.10.30-09.36.26:731][  0]LogPakFile: Initializing PakPlatformFile
+[2023.10.30-09.36.26:736][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.3/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.10.30-09.36.26:736][  0]LogPakFile: Initializing PakPlatformFile
+[2023.10.30-09.36.26:742][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.3/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.10.30-09.36.26:742][  0]LogPakFile: Initializing PakPlatformFile
+[2023.10.30-09.36.26:748][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.3/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.10.30-09.36.26:748][  0]LogPakFile: Initializing PakPlatformFile
+[2023.10.30-09.36.26:754][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.3/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.10.30-09.36.26:754][  0]LogPakFile: Initializing PakPlatformFile
+[2023.10.30-09.36.26:759][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.3/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.10.30-09.36.26:759][  0]LogPakFile: Initializing PakPlatformFile
+[2023.10.30-09.36.26:764][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.3/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.10.30-09.36.26:764][  0]LogPakFile: Initializing PakPlatformFile
+[2023.10.30-09.36.26:768][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.3/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.10.30-09.36.26:768][  0]LogPakFile: Initializing PakPlatformFile
+[2023.10.30-09.36.26:773][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.3/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.10.30-09.36.26:773][  0]LogPakFile: Initializing PakPlatformFile
+[2023.10.30-09.36.26:778][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.3/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.10.30-09.36.26:779][  0]LogPakFile: Initializing PakPlatformFile
+[2023.10.30-09.36.26:783][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.3/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.10.30-09.36.27:115][  0]LogSlate: Took 0.000142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.10.30-09.36.27:121][  0]LogSlate: Took 0.003025 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.10.30-09.36.27:124][  0]LogSlate: Took 0.003068 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.10.30-09.36.27:126][  0]LogSlate: Took 0.000143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.10.30-09.36.27:144][  0]LogViewport: Scene viewport resized to 2038x1260, mode Windowed.
+[2023.10.30-09.36.27:207][  0]LogSlate: Took 0.002698 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.10.30-09.36.27:518][  0]LogStall: Startup...
+[2023.10.30-09.36.27:520][  0]LogStall: Startup complete.
+[2023.10.30-09.36.27:525][  0]LogLoad: (Engine Initialization) Total time: 9.61 seconds
+[2023.10.30-09.36.27:525][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.10.30-09.36.27:587][  0]LogAssetRegistry: AssetRegistryGather time 0.4856s: AssetDataDiscovery 0.0496s, AssetDataGather 0.4053s, StoreResults 0.0308s.
+[2023.10.30-09.36.27:606][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2023.10.30-09.36.27:653][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.10.30-09.36.27:694][  0]LogAutomationController: Ignoring very large delta of 16958227.34 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.30-09.36.27:728][  1]LogPython: registering <class 'ControlRigWorkflows.workflow_deformation_rig_preset.provider'>
+
+[2023.10.30-09.36.27:734][  1]Running Python start-up script 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py': 0.039178 secs
+[2023.10.30-09.36.27:750][  1]LogD3D12RHI: Cannot end block when stack is empty
+[2023.10.30-09.36.29:331][139]LogEditorViewport: Clicking Background
+[2023.10.30-09.37.22:510][994]LogEditorViewport: Clicking Background
+[2023.10.30-09.37.35:022][380]LogAssetEditorSubsystem: Opening Asset editor for NiagaraSystem /Game/Particles/NE_Snow_System.NE_Snow_System
+[2023.10.30-09.37.35:202][380]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.30-09.37.35:202][380]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.30-09.37.35:306][380]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.30-09.37.35:306][380]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.30-09.37.35:375][380]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.10.30-09.37.35:379][380]LogViewport: Scene viewport resized to 229x328, mode Windowed.
+[2023.10.30-09.37.35:422][380]LogSlate: Took 0.003547 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.10.30-09.37.35:756][388]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.30-09.37.36:324][423]LogNiagara: Compiling System NiagaraSystem /Game/Particles/NE_Snow_System.NE_Snow_System took 1.292333 sec (time since issued), 1.099245 sec (combined shader worker time).
+[2023.10.30-09.37.36:520][430]46384_NE_Snow_System_MessageLog: System successfully compiled.
+[2023.10.30-09.37.40:066][795]LogNiagara: Compiling System NiagaraSystem /Game/Particles/NE_Snow_System.NE_Snow_System took 0.458950 sec (time since issued), 0.651907 sec (combined shader worker time).
+[2023.10.30-09.37.40:075][795]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.30-09.37.40:100][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particles/NE_Snow_System" FILE="../../../../../../Users/Logan Weist/Documents/Unreal Projects/CSC281/CSC281/Content/Particles/NE_Snow_System.uasset" SILENT=true
+[2023.10.30-09.37.40:108][795]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.008509 seconds
+[2023.10.30-09.37.40:153][795]LogSavePackage: Moving output files for package: /Game/Particles/NE_Snow_System
+[2023.10.30-09.37.40:154][795]LogSavePackage: Moving '../../../../../../Users/Logan Weist/Documents/Unreal Projects/CSC281/CSC281/Saved/NE_Snow_System7334DC474577DA69023BEFA231CE8AA8.tmp' to '../../../../../../Users/Logan Weist/Documents/Unreal Projects/CSC281/CSC281/Content/Particles/NE_Snow_System.uasset'
+[2023.10.30-09.37.40:163][795]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms
+[2023.10.30-09.37.40:210][795]AssetCheck: New page: Asset Save: NE_Snow_System
+[2023.10.30-09.37.40:210][795]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Particles/NE_Snow_System.NE_Snow_System
+[2023.10.30-09.37.40:945][875]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.30-09.37.40:966][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particles/NE_Snow_System" FILE="../../../../../../Users/Logan Weist/Documents/Unreal Projects/CSC281/CSC281/Content/Particles/NE_Snow_System.uasset" SILENT=true
+[2023.10.30-09.37.41:012][875]LogSavePackage: Moving output files for package: /Game/Particles/NE_Snow_System
+[2023.10.30-09.37.41:012][875]LogSavePackage: Moving '../../../../../../Users/Logan Weist/Documents/Unreal Projects/CSC281/CSC281/Saved/NE_Snow_System0D9DBC034EF15A3F32904BB29036EEEB.tmp' to '../../../../../../Users/Logan Weist/Documents/Unreal Projects/CSC281/CSC281/Content/Particles/NE_Snow_System.uasset'
+[2023.10.30-09.37.41:020][875]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 162 ms)
+[2023.10.30-09.37.41:064][875]AssetCheck: New page: Asset Save: NE_Snow_System
+[2023.10.30-09.37.41:064][875]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Particles/NE_Snow_System.NE_Snow_System
+[2023.10.30-09.37.41:514][922]LogEditorViewport: Clicking Background
