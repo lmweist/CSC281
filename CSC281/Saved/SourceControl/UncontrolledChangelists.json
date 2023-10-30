@@ -454,7 +454,14 @@
 				"C:/Users/Logan Weist/Documents/Unreal Projects/CSC281/CSC281/Content/Maps/SunnyLandAssets/environment/WinterTilemap.uasset",
 				"C:/Users/Logan Weist/Documents/Unreal Projects/CSC281/CSC281/Content/Maps/SunnyLandAssets/environment/WinterTileset.uasset",
 				"C:/Users/Logan Weist/Documents/Unreal Projects/CSC281/CSC281/Content/Maps/NewMap.umap",
-				"C:/Users/Logan Weist/Documents/Unreal Projects/CSC281/CSC281/Content/Maps/WinterTileset/Tiles/Level2Map.uasset"
+				"C:/Users/Logan Weist/Documents/Unreal Projects/CSC281/CSC281/Content/Maps/WinterTileset/Tiles/Level2Map.uasset",
+				"C:/Users/Logan Weist/Documents/Unreal Projects/CSC281/CSC281/Content/Blueprints/BP_Ice_Surface.uasset",
+				"C:/Users/Logan Weist/Documents/Unreal Projects/CSC281/CSC281/Content/Maps/SunnyLandAssets/sprites/Attack/BP_Slash.uasset",
+				"C:/Users/Logan Weist/Documents/Unreal Projects/CSC281/CSC281/Content/Maps/SunnyLandAssets/sprites/Attack/Slash_FB.uasset",
+				"C:/Users/Logan Weist/Documents/Unreal Projects/CSC281/CSC281/Content/Maps/SunnyLandAssets/sprites/Santa2/Santa_Attack1_FB.uasset",
+				"C:/Users/Logan Weist/Documents/Unreal Projects/CSC281/CSC281/Content/Pawns/ReindeerPawn.uasset",
+				"C:/Users/Logan Weist/Documents/Unreal Projects/CSC281/CSC281/Content/Blueprints/BP_ReindeerCharacter2.uasset",
+				"C:/Users/Logan Weist/Documents/Unreal Projects/CSC281/CSC281/Content/Particles/NE_Snow.uasset"
 			]
 		}
 	]
