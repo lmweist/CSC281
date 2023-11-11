@@ -1521,3 +1521,12 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.11-23.54.46:808][269]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
 [2023.11.11-23.54.46:868][269]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
 [2023.11.11-23.54.46:910][270]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2023.11.11-23.59.11:050][874]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.11-23.59.11:206][874]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map_1" FILE="../../../../Unreal Projects/CSC281/CSC281/Content/Maps/Map_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.11-23.59.11:231][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.11.11-23.59.11:289][874]LogSavePackage: Moving output files for package: /Game/Maps/Map_1
+[2023.11.11-23.59.11:289][874]LogSavePackage: Moving '../../../../Unreal Projects/CSC281/CSC281/Saved/Map_14A71ED5D9BA04D28B1898DEABE99CF5C.tmp' to '../../../../Unreal Projects/CSC281/CSC281/Content/Maps/Map_1.umap'
+[2023.11.11-23.59.11:292][874]LogFileHelpers: Saving map 'Map_1' took 0.087
+[2023.11.11-23.59.11:362][874]LogFileHelpers: InternalPromptForCheckoutAndSave took 311 ms (total: 639 ms)
+[2023.11.11-23.59.11:363][874]AssetCheck: New page: Asset Save: Map_1
+[2023.11.11-23.59.11:363][874]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Map_1.Map_1
