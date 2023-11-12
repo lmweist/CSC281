@@ -165,6 +165,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "CBBB2D24DCB612C5F86D4359E2ED52A720AAD7C7",
+			"Assets": [
+				"/Game/Blueprints/spriteDamage_Material2"
+			]
+		},
+		{
 			"ShaderMapHash": "4D875A2759C02D2CAE7FDD88B7D00A7353B4C89C",
 			"Assets": [
 				"/Interchange/gltf/M_Default"
@@ -630,6 +636,7 @@
 		{
 			"ShaderMapHash": "DC857FB8F8060046EDEE6832EE8C171CD9B6AD5B",
 			"Assets": [
+				"/Game/Blueprints/sprite_Material",
 				"/Paper2D/DefaultSpriteMaterial"
 			]
 		},

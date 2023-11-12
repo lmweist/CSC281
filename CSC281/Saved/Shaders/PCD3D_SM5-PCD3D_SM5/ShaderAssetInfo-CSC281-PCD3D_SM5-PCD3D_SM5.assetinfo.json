@@ -86,6 +86,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "21127C0FF47EB21F85541BFAC6615932E7997445",
+			"Assets": [
+				"/Game/Blueprints/spriteDamage_Material2"
+			]
+		},
+		{
 			"ShaderMapHash": "F054F611C1D0DB0CF5E64624CDB40F0305465073",
 			"Assets": [
 				"/ControlRig/Controls/ControlRigXRayMaterial"
@@ -782,6 +788,7 @@
 		{
 			"ShaderMapHash": "8E38FCD94785BAFBD8448A3D37057D3B339EE3D3",
 			"Assets": [
+				"/Game/Blueprints/sprite_Material",
 				"/Paper2D/DefaultSpriteMaterial"
 			]
 		},
