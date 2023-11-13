@@ -44,6 +44,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "24D6190FEE84F8E400A6E30F277D9887042E7179",
+			"Assets": [
+				"/Game/Blueprints/sprite_Material"
+			]
+		},
+		{
 			"ShaderMapHash": "4C7C790F6C7946037EE51A5A0BF1F7F4B7AE51A8",
 			"Assets": [
 				"/Engine/EditorMaterials/Thumbnails/SkySphereMaterial"
@@ -418,6 +424,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "1625A974A33260A015ED280B8E949CDF673C7654",
+			"Assets": [
+				"/Game/Blueprints/background_Material"
+			]
+		},
+		{
 			"ShaderMapHash": "A4657E759045A7781BDFD5DB5C00547BEEC7A756",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Mask_DS"
@@ -636,7 +648,6 @@
 		{
 			"ShaderMapHash": "DC857FB8F8060046EDEE6832EE8C171CD9B6AD5B",
 			"Assets": [
-				"/Game/Blueprints/sprite_Material",
 				"/Paper2D/DefaultSpriteMaterial"
 			]
 		},

@@ -32,6 +32,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "5CDB6E06D60D0E2BF30D6A0B433C6ADB6920DEFD",
+			"Assets": [
+				"/Game/Blueprints/sprite_Material"
+			]
+		},
+		{
 			"ShaderMapHash": "DAA16F0712DC83866081B2AE5B58EBA8C1B0AA91",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Opaque_DS"
@@ -780,6 +786,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "E5C192D638CA902F6F708EF0400537BC96C3E60F",
+			"Assets": [
+				"/Game/Blueprints/background_Material"
+			]
+		},
+		{
 			"ShaderMapHash": "D0F0ADD981E98C754967A2D65578BE04D0215239",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
@@ -788,7 +800,6 @@
 		{
 			"ShaderMapHash": "8E38FCD94785BAFBD8448A3D37057D3B339EE3D3",
 			"Assets": [
-				"/Game/Blueprints/sprite_Material",
 				"/Paper2D/DefaultSpriteMaterial"
 			]
 		},
