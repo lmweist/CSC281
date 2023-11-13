@@ -1,0 +1,121 @@
+﻿Log file open, 11/11/23 23:30:33
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogInit: ExecutableName: CrashReportClient
+LogInit: Build: ++UE5+Release-5.3-CL-28051148
+LogInit: Engine Version: 5.3.1-28051148+++UE5+Release-5.3
+LogInit: Compatible Engine Version: 5.3.0-27405482+++UE5+Release-5.3
+LogInit: Net CL: 26909020
+LogInit: OS: Ubuntu 23.10 (6.5.0-10-generic), CPU: AMD Ryzen 9 5900X 12-Core Processor, GPU: NVIDIA GeForce RTX 2070 (NVIDIA UNIX x86_64 Kernel Module  535.129.03  Thu Oct 19 18:56:32 UTC 2023)
+LogInit: Compiled (64-bit): Sep 21 2023 04:42:17
+LogInit: Architecture: x64
+LogInit: Compiled with Clang: 16.0.6 (github.com/llvm/llvm-project 7cbf1a2591520c2491aa35339f227775f4d3adf6)
+LogInit: Build Configuration: Shipping
+LogInit: Branch Name: ++UE5+Release-5.3
+LogInit: Command Line:  -Abslog="/home/spencer/Documents/Unreal Projects/CSC281/CSC281/Saved/Logs/CSC281-CRC.log" -Unattended "/home/spencer/Documents/Unreal Projects/CSC281/CSC281/Saved/Crashes/stallinfo-CSC281-pid-35079-C7A0A8586DFE444F935876F49BA70C54/"
+LogInit: Base Directory: /home/spencer/Documents/Unreal Engine 5.3.1/Engine/Binaries/Linux/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogInit: This binary is optimized with LTO: no, PGO: no, instrumented for PGO data collection: no
+LogInit: Presizing for max 100000 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2023.11.12-04.30.33:352][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.11.12-04.30.33:352][  0]LogInit: Unix hardware info:
+[2023.11.12-04.30.33:352][  0]LogInit:  - we are the first instance of this executable
+[2023.11.12-04.30.33:352][  0]LogInit:  - this process' id (pid) is 51058, parent process' id (ppid) is 35079
+[2023.11.12-04.30.33:352][  0]LogInit:  - we are not running under debugger
+[2023.11.12-04.30.33:352][  0]LogInit:  - machine network name is 'spencer-1-0'
+[2023.11.12-04.30.33:352][  0]LogInit:  - user name is 'spencer' (spencer)
+[2023.11.12-04.30.33:352][  0]LogInit:  - we're logged in locally
+[2023.11.12-04.30.33:352][  0]LogInit:  - we're running with rendering
+[2023.11.12-04.30.33:352][  0]LogInit:  - CPU: AuthenticAMD 'AMD Ryzen 9 5900X 12-Core Processor' (signature: 0xA20F10)
+[2023.11.12-04.30.33:352][  0]LogInit:  - Number of physical cores available for the process: 12
+[2023.11.12-04.30.33:352][  0]LogInit:  - Number of logical cores available for the process: 24
+[2023.11.12-04.30.33:352][  0]LogInit:  - GPU Brand Info: NVIDIA GeForce RTX 2070 (NVIDIA UNIX x86_64 Kernel Module  535.129.03  Thu Oct 19 18:56:32 UTC 2023)
+[2023.11.12-04.30.33:352][  0]LogInit:  - Memory allocator used: Mimalloc
+[2023.11.12-04.30.33:352][  0]LogInit:  - This is an internal build.
+[2023.11.12-04.30.33:352][  0]LogCore: Skipped benchmarking clocks because the engine is running in a standalone program mode - CLOCK_MONOTONIC will be used.
+[2023.11.12-04.30.33:352][  0]LogInit: Unix-specific commandline switches:
+[2023.11.12-04.30.33:352][  0]LogInit:  -ansimalloc - use malloc()/free() from libc (useful for tools like valgrind and electric fence)
+[2023.11.12-04.30.33:352][  0]LogInit:  -jemalloc - use jemalloc for all memory allocation
+[2023.11.12-04.30.33:352][  0]LogInit:  -binnedmalloc - use binned malloc  for all memory allocation
+[2023.11.12-04.30.33:352][  0]LogInit:  -filemapcachesize=NUMBER - set the size for case-sensitive file mapping cache
+[2023.11.12-04.30.33:352][  0]LogInit:  -useksm - uses kernel same-page mapping (KSM) for mapped memory (OFF)
+[2023.11.12-04.30.33:352][  0]LogInit:  -ksmmergeall - marks all mmap'd memory pages suitable for KSM (OFF)
+[2023.11.12-04.30.33:352][  0]LogInit:  -preloadmodulesymbols - Loads the main module symbols file into memory (OFF)
+[2023.11.12-04.30.33:352][  0]LogInit:  -sigdfl=SIGNAL - Allows a specific signal to be set to its default handler rather then ignoring the signal
+[2023.11.12-04.30.33:352][  0]LogInit:  -crashhandlerstacksize - Allows setting crash handler stack sizes (204800)
+[2023.11.12-04.30.33:352][  0]LogInit:  -noexclusivelockonwrite - disables marking files created by the engine as exclusive locked while the engine has them opened
+[2023.11.12-04.30.33:352][  0]LogInit:  -httpproxy=ADDRESS:PORT - redirects HTTP requests to a proxy (only supported if compiled with libcurl)
+[2023.11.12-04.30.33:352][  0]LogInit:  -reuseconn - allow libcurl to reuse HTTP connections (only matters if compiled with libcurl)
+[2023.11.12-04.30.33:352][  0]LogInit:  -virtmemkb=NUMBER - sets process virtual memory (address space) limit (overrides VirtualMemoryLimitInKB value from .ini)
+[2023.11.12-04.30.33:352][  0]LogInit:  -allowsyscallfilterfile=PATH_TO_FILE - sets up a system call filter allow list. any invalid syscall in this list *will* cause a crash
+[2023.11.12-04.30.33:352][  0]LogInit:  - Physical RAM available (not considering process quota): 32 GB (32006 MB, 32774292 KB, 33560875008 bytes)
+[2023.11.12-04.30.33:352][  0]LogInit:  - VirtualMemoryAllocator pools will grow at scale 1.4
+[2023.11.12-04.30.33:352][  0]LogInit:  - MemoryRangeDecommit() will be a no-op (re-run with -vmapoolevict to change)
+[2023.11.12-04.30.33:352][  0]LogInit:  - PageSize 4096
+[2023.11.12-04.30.33:352][  0]LogInit:  - BinnedPageSize 65536
+[2023.11.12-04.30.33:355][  0]LogUObjectArray: 434 objects as part of root set at end of initial load.
+[2023.11.12-04.30.33:355][  0]LogUObjectAllocator: 90608 out of 0 bytes used by permanent object pool.
+[2023.11.12-04.30.33:355][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.11.12-04.30.33:355][  0]LogInit: Using OS detected language (en-US).
+[2023.11.12-04.30.33:355][  0]LogInit: Using OS detected locale (en-US).
+[2023.11.12-04.30.33:355][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2023.11.12-04.30.33:389][  0]LogInit: Using OS detected language (en-US).
+[2023.11.12-04.30.33:389][  0]LogInit: Using OS detected locale (en-US).
+[2023.11.12-04.30.33:389][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2023.11.12-04.30.33:389][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the locale.
+[2023.11.12-04.30.33:389][  0]LogPackageLocalizationCache: Processed 2 localized package path(s) for 1 prioritized culture(s) in 0.000030 seconds
+[2023.11.12-04.30.33:389][  0]CrashReportCoreLog: CrashReportClientVersion=1.0
+[2023.11.12-04.30.33:389][  0]CrashReportCoreLog: CrashReportReceiver disabled
+[2023.11.12-04.30.33:389][  0]CrashReportCoreLog: DataRouterUrl: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data
+[2023.11.12-04.30.33:405][  0]LogInit: Using libcurl 7.83.1
+[2023.11.12-04.30.33:405][  0]LogInit:  - built for Linux
+[2023.11.12-04.30.33:405][  0]LogInit:  - supports SSL with OpenSSL/1.1.1t
+[2023.11.12-04.30.33:405][  0]LogInit:  - supports HTTP deflate (compression) using libz 1.2.13
+[2023.11.12-04.30.33:405][  0]LogInit:  - other features:
+[2023.11.12-04.30.33:405][  0]LogInit:      CURL_VERSION_SSL
+[2023.11.12-04.30.33:405][  0]LogInit:      CURL_VERSION_LIBZ
+[2023.11.12-04.30.33:405][  0]LogInit:      CURL_VERSION_IPV6
+[2023.11.12-04.30.33:405][  0]LogInit:      CURL_VERSION_ASYNCHDNS
+[2023.11.12-04.30.33:405][  0]LogInit:      CURL_VERSION_LARGEFILE
+[2023.11.12-04.30.33:406][  0]LogInit:  CurlRequestOptions (configurable via config and command line):
+[2023.11.12-04.30.33:406][  0]LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+[2023.11.12-04.30.33:406][  0]LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+[2023.11.12-04.30.33:406][  0]LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+[2023.11.12-04.30.33:406][  0]LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+[2023.11.12-04.30.33:406][  0]LogInit:  - LocalHostAddr = Default
+[2023.11.12-04.30.33:406][  0]LogInit:  - BufferSize = 65536
+[2023.11.12-04.30.33:406][  0]LogAnalytics: Display: [CrashReporter.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = ++UE5+Release-5.3-CL-28051148
+[2023.11.12-04.30.33:408][  0]CrashReportCoreLog: Initial state = Unknown UploadState value
+[2023.11.12-04.30.33:408][  0]CrashReportCoreLog: Initial state = Unknown UploadState value
+[2023.11.12-04.30.33:408][  0]LogCrashDebugHelper: DepotName: //UE5/Release-5.3
+[2023.11.12-04.30.33:408][  0]LogCrashDebugHelper: BuiltFromCL: 28051148
+[2023.11.12-04.30.33:408][  0]LogCrashDebugHelper: EngineVersion: 5.3.1-28051148+++UE5+Release-5.3
+[2023.11.12-04.30.33:408][  0]LogCrashDebugHelper: BuildVersion: ++UE5+Release-5.3-CL-28051148
+[2023.11.12-04.30.34:378][  0]CrashReportCoreLog: Got 4 pending files to upload from 'stallinfo-CSC281-pid-35079-C7A0A8586DFE444F935876F49BA70C54'
+[2023.11.12-04.30.34:378][  0]CrashReportCoreLog: State change from Ready to SendingFiles
+[2023.11.12-04.30.34:378][  0]CrashReportCoreLog: CompressAndSendData have 4 pending files
+[2023.11.12-04.30.34:378][  0]CrashReportCoreLog: CompressAndSendData compressing 36781 bytes ('/home/spencer/Documents/Unreal Projects/CSC281/CSC281/Saved/Crashes/stallinfo-CSC281-pid-35079-C7A0A8586DFE444F935876F49BA70C54/CrashContext.runtime-xml')
+[2023.11.12-04.30.34:378][  0]CrashReportCoreLog: CompressAndSendData compressing 393631 bytes ('/home/spencer/Documents/Unreal Projects/CSC281/CSC281/Saved/Crashes/stallinfo-CSC281-pid-35079-C7A0A8586DFE444F935876F49BA70C54/CSC281.log')
+[2023.11.12-04.30.34:378][  0]CrashReportCoreLog: CompressAndSendData compressing 179 bytes ('/home/spencer/Documents/Unreal Projects/CSC281/CSC281/Saved/Crashes/stallinfo-CSC281-pid-35079-C7A0A8586DFE444F935876F49BA70C54/CrashReportClient.ini')
+[2023.11.12-04.30.34:378][  0]CrashReportCoreLog: CompressAndSendData compressing 6191 bytes ('/home/spencer/Documents/Unreal Projects/CSC281/CSC281/Saved/Crashes/stallinfo-CSC281-pid-35079-C7A0A8586DFE444F935876F49BA70C54/Diagnostics.txt')
+[2023.11.12-04.30.34:383][  0]CrashReportCoreLog: Sending HTTP request: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?AppID=CrashReporter&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&AppEnvironment=Release&UploadType=crashreports&UserID=e800215136c94447a20e45cab4e25c29-000003e8%7C%7Ce800215136c94447a20e45cab4e25c29
+[2023.11.12-04.30.34:577][  0]CrashReportCoreLog: OnProcessRequestComplete(), State=SendingFiles bSucceeded=1
+[2023.11.12-04.30.34:577][  0]CrashReportCoreLog: State change from SendingFiles to SendingFiles
+[2023.11.12-04.30.34:577][  0]CrashReportCoreLog: All uploads done
+[2023.11.12-04.30.34:577][  0]CrashReportCoreLog: State change from SendingFiles to Finished
+[2023.11.12-04.30.35:412][  0]CrashReportCoreLog: Final state (Receiver) = Finished
+[2023.11.12-04.30.35:412][  0]CrashReportCoreLog: Final state (Receiver) = Unknown UploadState value
+[2023.11.12-04.30.35:412][  0]LogCore: Engine exit requested (reason: CrashReportClientApp RequestExit)
+[2023.11.12-04.30.35:412][  0]LogExit: Preparing to exit.
+[2023.11.12-04.30.35:413][  0]LogExit: Object subsystem successfully closed.
+[2023.11.12-04.30.35:414][  0]LogModuleManager: Shutting down and abandoning module CrashDebugHelper (14)
+[2023.11.12-04.30.35:414][  0]LogModuleManager: Shutting down and abandoning module AnalyticsET (12)
+[2023.11.12-04.30.35:414][  0]LogModuleManager: Shutting down and abandoning module HTTP (11)
+[2023.11.12-04.30.35:929][  0]LogModuleManager: Shutting down and abandoning module SSL (10)
+[2023.11.12-04.30.35:929][  0]LogModuleManager: Shutting down and abandoning module CoreUObject (6)
+[2023.11.12-04.30.35:929][  0]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2023.11.12-04.30.35:929][  0]LogPakFile: Destroying PakPlatformFile
+[2023.11.12-04.30.35:929][  0]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2023.11.12-04.30.35:931][  0]LogExit: Exiting.
+[2023.11.12-04.30.35:940][  0]Log file closed, 11/11/23 23:30:35
