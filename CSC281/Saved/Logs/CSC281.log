@@ -13012,3 +13012,733 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.14-17.41.22:560][821]UATHelper: Packaging (Linux): BUILD SUCCESSFUL
 [2023.11.14-17.41.22:560][821]UATHelper: Packaging (Linux): AutomationTool executed for 0h 0m 27s
 [2023.11.14-17.41.22:560][821]UATHelper: Packaging (Linux): AutomationTool exiting with ExitCode=0 (Success)
+[2023.11.14-18.08.07:540][985]LogDerivedDataCache: /home/spencer/.config/Epic/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:10.073 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 5507 files in 6434 folders with total size 57 MiB.
+[2023.11.14-18.47.53:448][577]LogViewport: Scene viewport resized to 1401x902, mode Windowed.
+[2023.11.14-18.47.53:468][578]LogViewport: Scene viewport resized to 1047x870, mode Windowed.
+[2023.11.14-18.47.55:467][690]LogViewport: Scene viewport resized to 1052x876, mode Windowed.
+[2023.11.14-18.47.55:541][693]LogViewport: Scene viewport resized to 1406x908, mode Windowed.
+[2023.11.14-19.08.07:672][393]LogDerivedDataCache: /home/spencer/.config/Epic/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:10.202 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 5507 files in 6434 folders with total size 57 MiB.
+[2023.11.14-19.25.36:487][827]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.14-19.25.36:501][827]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.14-19.25.36:501][827]PIE: New page: PIE session: Map_1 (Nov 14, 2023, 9:25:36 AM)
+[2023.11.14-19.25.36:501][827]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_1
+[2023.11.14-19.25.36:521][827]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019257s)
+[2023.11.14-19.25.36:521][827]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_1.Map_1 to /Game/Maps/UEDPIE_0_Map_1.Map_1 (0.019282s)
+[2023.11.14-19.25.36:539][827]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.11.14-19.25.36:540][827]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.14-19.25.36:540][827]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.14-19.25.36:540][827]LogAIModule: Creating AISystem for world Map_1
+[2023.11.14-19.25.36:541][827]LogPlayLevel: PIE: World Init took: (0.000730s)
+[2023.11.14-19.25.36:541][827]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.11.14-19.25.36:541][827]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.14-19.25.36:541][827]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.14-19.25.36:541][827]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.14-19.25.36:541][827]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.14-19.25.36:541][827]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.14-19.25.36:541][827]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.14-19.25.36:541][827]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.14-19.25.36:541][827]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.14-19.25.36:541][827]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.14-19.25.36:541][827]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.14-19.25.36:541][827]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.14-19.25.36:541][827]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2023.11.14-19.25.36:541][827]LogAudioMixer: Display: Initializing audio mixer using platform API: 'SDL2'
+[2023.11.14-19.25.36:908][827]LogAudioMixerSDL: Opening default audio device (device index -1)
+[2023.11.14-19.25.36:921][827]LogAudioMixer: Display: Using Audio Hardware Device Starship/Matisse HD Audio Controller Digital Stereo (IEC958)
+[2023.11.14-19.25.36:921][827]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.14-19.25.36:921][827]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.14-19.25.36:921][827]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.14-19.25.36:923][827]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=13
+[2023.11.14-19.25.36:923][827]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2023.11.14-19.25.36:923][827]LogInit: FAudioDevice initialized with ID 13.
+[2023.11.14-19.25.36:923][827]LogAudio: Display: Audio Device (ID: 13) registered with world 'Map_1'.
+[2023.11.14-19.25.36:923][827]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2023.11.14-19.25.36:925][827]LogLoad: Game class is 'GM_SideScroller_C'
+[2023.11.14-19.25.36:995][827]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2023.11.14-14.25.36
+[2023.11.14-19.25.36:998][827]LogWorld: Bringing up level for play took: 0.072468
+[2023.11.14-19.25.36:998][827]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2023.11.14-19.25.37:235][827]PIE: Server logged in
+[2023.11.14-19.25.37:235][827]PIE: Play in editor total start time 0.734 seconds.
+[2023.11.14-19.25.37:271][828]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.095026 > MaxSimulationTimeStep (0.050) for 'BP_ReindeerCharacter2_C_1', movement 'Walking'
+[2023.11.14-19.25.37:273][828]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.097018 > MaxSimulationTimeStep (0.050) for 'BP_ElfCharacter2_C_31', movement 'Walking'
+[2023.11.14-19.25.38:486][902]LogNet: Browse: /Game/Maps/MainMenuLevel
+[2023.11.14-19.25.38:486][902]LogLoad: LoadMap: /Game/Maps/MainMenuLevel
+[2023.11.14-19.25.38:486][902]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_1
+[2023.11.14-19.25.38:488][902]LogWorld: UWorld::CleanupWorld for Map_1, bSessionEnded=true, bCleanupResources=true
+[2023.11.14-19.25.38:490][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.14-19.25.38:542][902]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.14-19.25.38:549][902]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.11.14-19.25.38:555][902]LogAudio: Display: Audio Device (ID: 13) registered with world 'MainMenuLevel'.
+[2023.11.14-19.25.38:555][902]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.14-19.25.38:555][902]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.14-19.25.38:556][902]LogAIModule: Creating AISystem for world MainMenuLevel
+[2023.11.14-19.25.38:556][902]LogPlayLevel: PIE: World Init took: (0.000610s)
+[2023.11.14-19.25.38:556][902]LogLoad: Game class is 'MenuGameMode_C'
+[2023.11.14-19.25.38:556][902]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2023.11.14-14.25.38
+[2023.11.14-19.25.38:556][902]LogWorld: Bringing up level for play took: 0.000322
+[2023.11.14-19.25.38:557][902]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.11.14-19.25.38:558][902]LogLoad: Took 0.071464 seconds to LoadMap(/Game/Maps/MainMenuLevel)
+[2023.11.14-19.25.48:852][522]LogNet: Browse: /Game/Maps/Map_1
+[2023.11.14-19.25.48:852][522]LogLoad: LoadMap: /Game/Maps/Map_1
+[2023.11.14-19.25.48:852][522]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenuLevel
+[2023.11.14-19.25.48:852][522]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.11.14-19.25.48:853][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.14-19.25.48:861][522]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.14-19.25.48:862][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.11.14-19.25.48:874][522]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_1
+[2023.11.14-19.25.48:894][522]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019245s)
+[2023.11.14-19.25.48:894][522]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_1.Map_1 to /Game/Maps/UEDPIE_0_Map_1.Map_1 (0.019280s)
+[2023.11.14-19.25.48:894][522]LogAudio: Display: Audio Device (ID: 13) registered with world 'Map_1'.
+[2023.11.14-19.25.48:894][522]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.14-19.25.48:894][522]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.14-19.25.48:894][522]LogAIModule: Creating AISystem for world Map_1
+[2023.11.14-19.25.48:894][522]LogPlayLevel: PIE: World Init took: (0.000655s)
+[2023.11.14-19.25.48:894][522]LogLoad: Game class is 'GM_SideScroller_C'
+[2023.11.14-19.25.48:938][522]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2023.11.14-14.25.48
+[2023.11.14-19.25.48:941][522]LogWorld: Bringing up level for play took: 0.046149
+[2023.11.14-19.25.49:180][522]LogLoad: Took 0.327998 seconds to LoadMap(/Game/Maps/UEDPIE_0_Map_1)
+[2023.11.14-19.25.49:214][523]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.064850 > MaxSimulationTimeStep (0.050) for 'BP_ReindeerCharacter2_C_1', movement 'Walking'
+[2023.11.14-19.25.49:215][523]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.066889 > MaxSimulationTimeStep (0.050) for 'BP_ElfCharacter2_C_31', movement 'Walking'
+[2023.11.14-19.25.53:655][791]LogBlueprintUserMessages: [BP_SpriteCharacter_C_0] BP_ElfCharacter30
+[2023.11.14-19.25.53:657][791]LogBlueprintUserMessages: [HealthBar_C_1] 0.2
+[2023.11.14-19.25.53:657][791]LogBlueprintUserMessages: [BP_SpriteCharacter_C_0] 1.0
+[2023.11.14-19.25.53:657][791]LogBlueprintUserMessages: [BP_SpriteCharacter_C_0] 5.0
+[2023.11.14-19.26.00:048][173]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.14-19.26.00:048][173]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_1
+[2023.11.14-19.26.00:049][173]LogWorld: UWorld::CleanupWorld for Map_1, bSessionEnded=true, bCleanupResources=true
+[2023.11.14-19.26.00:052][173]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.14-19.26.00:053][173]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.14-19.26.00:058][173]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.14-19.26.00:073][173]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.14-19.26.00:073][173]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2023.11.14-19.26.00:124][173]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.11.14-19.26.00:167][174]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2023.11.14-19.32.26:055][391]LogContentBrowser: Deferred new asset file creation: P_RespawnPrompt1
+[2023.11.14-19.32.26:066][391]LogContentBrowser: Creating deferred item: P_RespawnPrompt1
+[2023.11.14-19.32.26:086][392]LogContentBrowser: Renaming the item being created (Deferred Item: P_RespawnPrompt1).
+[2023.11.14-19.32.41:031][292]LogContentBrowser: Attempting asset rename: P_RespawnPrompt1 -> P_EscapePrompt
+[2023.11.14-19.32.41:059][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.11.14-19.32.41:071][292]LogContentBrowser: End creating deferred item P_RespawnPrompt1
+[2023.11.14-19.32.44:165][472]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/P_EscapePrompt.P_EscapePrompt
+[2023.11.14-19.32.44:166][472]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.14-19.32.44:166][472]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.14-19.32.44:176][472]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.14-19.32.44:176][472]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.14-19.33.13:138][177]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.11.14-19.33.13:138][177]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.14-19.33.13:142][177]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.11.14-19.33.13:142][177]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.14-19.33.14:994][285]LogSlate: Window 'MenuGameMode' being destroyed
+[2023.11.14-19.33.15:025][285]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.11.14-19.33.15:025][285]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.14-19.33.30:339][200]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.11.14-19.33.32:444][200]LogSlate: Window 'Delete Assets' being destroyed
+[2023.11.14-19.33.32:549][200]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.11.14-19.33.32:567][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.11.14-19.33.32:582][200]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.11.14-19.33.34:814][334]LogViewport: Scene viewport resized to 1047x870, mode Windowed.
+[2023.11.14-19.33.37:635][493]LogViewport: Scene viewport resized to 1052x876, mode Windowed.
+[2023.11.14-19.33.37:712][494]LogViewport: Scene viewport resized to 1406x908, mode Windowed.
+[2023.11.14-19.33.57:473][647]Cmd: TRANSACTION UNDO
+[2023.11.14-19.33.57:473][647]LogEditorTransaction: Undo Clicking on Elements
+[2023.11.14-19.34.03:471][944]LogContentBrowser: Deferred new asset file creation: P_RespawnPrompt1
+[2023.11.14-19.34.03:492][944]LogContentBrowser: Creating deferred item: P_RespawnPrompt1
+[2023.11.14-19.34.03:506][945]LogContentBrowser: Renaming the item being created (Deferred Item: P_RespawnPrompt1).
+[2023.11.14-19.34.12:917][513]LogContentBrowser: Attempting asset rename: P_RespawnPrompt1 -> P_EscapePrompt
+[2023.11.14-19.34.12:938][513]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.11.14-19.34.12:953][513]LogContentBrowser: End creating deferred item P_RespawnPrompt1
+[2023.11.14-19.34.15:693][675]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/P_EscapePrompt.P_EscapePrompt
+[2023.11.14-19.34.15:694][675]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.14-19.34.15:694][675]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.14-19.34.15:696][675]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.14-19.34.15:696][675]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.14-19.35.22:124][606]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.14-19.35.22:322][606]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/P_EscapePrompt" FILE="../../../../Unreal Projects/CSC281/CSC281/Content/Widgets/P_EscapePrompt.uasset" SILENT=true
+[2023.11.14-19.35.22:331][606]LogSavePackage: Moving output files for package: /Game/Widgets/P_EscapePrompt
+[2023.11.14-19.35.22:331][606]LogSavePackage: Moving '../../../../Unreal Projects/CSC281/CSC281/Saved/P_EscapePrompt923C96AFACBF4BA9BE913719A5872BD1.tmp' to '../../../../Unreal Projects/CSC281/CSC281/Content/Widgets/P_EscapePrompt.uasset'
+[2023.11.14-19.35.22:400][606]LogFileHelpers: InternalPromptForCheckoutAndSave took 275 ms (total: 1.03 sec)
+[2023.11.14-19.35.22:400][606]AssetCheck: New page: Asset Save: P_EscapePrompt
+[2023.11.14-19.35.22:400][606]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/P_EscapePrompt.P_EscapePrompt
+[2023.11.14-19.35.57:104][614]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.14-19.35.57:299][614]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/P_EscapePrompt" FILE="../../../../Unreal Projects/CSC281/CSC281/Content/Widgets/P_EscapePrompt.uasset" SILENT=true
+[2023.11.14-19.35.57:308][614]LogSavePackage: Moving output files for package: /Game/Widgets/P_EscapePrompt
+[2023.11.14-19.35.57:309][614]LogSavePackage: Moving '../../../../Unreal Projects/CSC281/CSC281/Saved/P_EscapePrompt53AE92EB8A4F4D068F246171C5F2F836.tmp' to '../../../../Unreal Projects/CSC281/CSC281/Content/Widgets/P_EscapePrompt.uasset'
+[2023.11.14-19.35.57:379][614]LogFileHelpers: InternalPromptForCheckoutAndSave took 275 ms (total: 1.31 sec)
+[2023.11.14-19.35.57:381][614]AssetCheck: New page: Asset Save: P_EscapePrompt
+[2023.11.14-19.35.57:381][614]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/P_EscapePrompt.P_EscapePrompt
+[2023.11.14-19.36.53:235][877]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_SpriteCharacter.BP_SpriteCharacter
+[2023.11.14-19.36.53:235][877]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.14-19.36.53:235][877]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.14-19.38.47:393][ 71]LogSlate: Window 'Fix Self Context Function References' being destroyed
+[2023.11.14-19.41.10:551][412]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.14-19.41.10:748][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/P_EscapePrompt" FILE="../../../../Unreal Projects/CSC281/CSC281/Content/Widgets/P_EscapePrompt.uasset" SILENT=true
+[2023.11.14-19.41.10:758][412]LogSavePackage: Moving output files for package: /Game/Widgets/P_EscapePrompt
+[2023.11.14-19.41.10:758][412]LogSavePackage: Moving '../../../../Unreal Projects/CSC281/CSC281/Saved/P_EscapePrompt90C790DCE9EF4267A44F66B54FDD272B.tmp' to '../../../../Unreal Projects/CSC281/CSC281/Content/Widgets/P_EscapePrompt.uasset'
+[2023.11.14-19.41.10:810][412]LogFileHelpers: InternalPromptForCheckoutAndSave took 258 ms (total: 1.56 sec)
+[2023.11.14-19.41.10:811][412]AssetCheck: New page: Asset Save: P_EscapePrompt
+[2023.11.14-19.41.10:811][412]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/P_EscapePrompt.P_EscapePrompt
+[2023.11.14-19.41.53:055][549]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.14-19.41.53:243][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/P_EscapePrompt" FILE="../../../../Unreal Projects/CSC281/CSC281/Content/Widgets/P_EscapePrompt.uasset" SILENT=true
+[2023.11.14-19.41.53:248][549]LogSavePackage: Moving output files for package: /Game/Widgets/P_EscapePrompt
+[2023.11.14-19.41.53:248][549]LogSavePackage: Moving '../../../../Unreal Projects/CSC281/CSC281/Saved/P_EscapePrompt2E027C87C12046D0BCB77966D27CFB4E.tmp' to '../../../../Unreal Projects/CSC281/CSC281/Content/Widgets/P_EscapePrompt.uasset'
+[2023.11.14-19.41.53:342][549]LogFileHelpers: InternalPromptForCheckoutAndSave took 287 ms (total: 1.85 sec)
+[2023.11.14-19.41.53:343][549]AssetCheck: New page: Asset Save: P_EscapePrompt
+[2023.11.14-19.41.53:343][549]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/P_EscapePrompt.P_EscapePrompt
+[2023.11.14-19.44.12:647][473]LogSlate: Took 0.001235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.11.14-19.44.47:694][352]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.14-19.44.47:873][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SpriteCharacter" FILE="../../../../Unreal Projects/CSC281/CSC281/Content/Blueprints/BP_SpriteCharacter.uasset" SILENT=true
+[2023.11.14-19.44.47:946][352]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_SpriteCharacter
+[2023.11.14-19.44.47:946][352]LogSavePackage: Moving '../../../../Unreal Projects/CSC281/CSC281/Saved/BP_SpriteCharacterF35D8DDAC39B4B7B964E258B514FBC99.tmp' to '../../../../Unreal Projects/CSC281/CSC281/Content/Blueprints/BP_SpriteCharacter.uasset'
+[2023.11.14-19.44.48:006][352]LogFileHelpers: InternalPromptForCheckoutAndSave took 311 ms (total: 2.16 sec)
+[2023.11.14-19.44.48:009][352]AssetCheck: New page: Asset Save: BP_SpriteCharacter
+[2023.11.14-19.44.48:009][352]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_SpriteCharacter.BP_SpriteCharacter
+[2023.11.14-19.44.50:507][495]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.14-19.44.50:511][495]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.11.14-19.44.50:518][495]LogPlayLevel: [PlayLevel] Compiling BP_SpriteCharacter before play...
+[2023.11.14-19.44.50:635][495]LogPlayLevel: [PlayLevel] Compiling P_EscapePrompt before play...
+[2023.11.14-19.44.50:636][495]LogBlueprint: Warning: [AssetLog] /home/spencer/Documents/Unreal Projects/CSC281/CSC281/Content/Widgets/P_EscapePrompt.uasset: [Compiler] On Clicked (ContinueButton)  does not have a valid matching component!
+[2023.11.14-19.44.50:636][495]LogBlueprint: Error: [AssetLog] /home/spencer/Documents/Unreal Projects/CSC281/CSC281/Content/Widgets/P_EscapePrompt.uasset: [Compiler] This blueprint (self) is not a Actor, therefore ' Target ' must have a connection.
+[2023.11.14-19.44.50:684][495]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.11.14-19.44.50:689][495]LogPlayLevel: PlayLevel: Blueprint regeneration took 177 ms (2 blueprints)
+[2023.11.14-19.44.50:689][495]BlueprintLog: Warning: Blueprint failed to compile:  P_EscapePrompt
+[2023.11.14-19.44.55:809][495]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2023.11.14-19.45.36:479][770]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.14-19.45.36:661][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/P_EscapePrompt" FILE="../../../../Unreal Projects/CSC281/CSC281/Content/Widgets/P_EscapePrompt.uasset" SILENT=true
+[2023.11.14-19.45.36:666][770]LogSavePackage: Moving output files for package: /Game/Widgets/P_EscapePrompt
+[2023.11.14-19.45.36:666][770]LogSavePackage: Moving '../../../../Unreal Projects/CSC281/CSC281/Saved/P_EscapePromptCDE15DB4F0C34BFD90007604C2C6C38E.tmp' to '../../../../Unreal Projects/CSC281/CSC281/Content/Widgets/P_EscapePrompt.uasset'
+[2023.11.14-19.45.36:740][770]LogFileHelpers: InternalPromptForCheckoutAndSave took 260 ms (total: 2.42 sec)
+[2023.11.14-19.45.36:741][770]AssetCheck: New page: Asset Save: P_EscapePrompt
+[2023.11.14-19.45.36:741][770]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/P_EscapePrompt.P_EscapePrompt
+[2023.11.14-19.45.39:441][918]LogSlate: Window 'Message Log' being destroyed
+[2023.11.14-19.45.39:494][918]LogSlate: Window 'Message Log' being destroyed
+[2023.11.14-19.45.40:241][955]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.14-19.45.40:248][955]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.11.14-19.45.40:252][955]LogPlayLevel: [PlayLevel] Compiling P_EscapePrompt before play...
+[2023.11.14-19.45.40:254][955]LogBlueprint: Warning: [AssetLog] /home/spencer/Documents/Unreal Projects/CSC281/CSC281/Content/Widgets/P_EscapePrompt.uasset: [Compiler] On Clicked (ContinueButton)  does not have a valid matching component!
+[2023.11.14-19.45.40:361][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.11.14-19.45.40:366][955]LogPlayLevel: PlayLevel: Blueprint regeneration took 117 ms (1 blueprints)
+[2023.11.14-19.45.40:366][955]PIE: New page: PIE session: Map_1 (Nov 14, 2023, 9:45:40 AM)
+[2023.11.14-19.45.40:366][955]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_1
+[2023.11.14-19.45.40:385][955]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019082s)
+[2023.11.14-19.45.40:385][955]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_1.Map_1 to /Game/Maps/UEDPIE_0_Map_1.Map_1 (0.019107s)
+[2023.11.14-19.45.40:396][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.11.14-19.45.40:397][955]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.14-19.45.40:397][955]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.14-19.45.40:398][955]LogAIModule: Creating AISystem for world Map_1
+[2023.11.14-19.45.40:398][955]LogPlayLevel: PIE: World Init took: (0.000782s)
+[2023.11.14-19.45.40:398][955]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.11.14-19.45.40:398][955]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.14-19.45.40:398][955]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.14-19.45.40:398][955]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.14-19.45.40:398][955]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.14-19.45.40:398][955]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.14-19.45.40:398][955]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.14-19.45.40:398][955]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.14-19.45.40:398][955]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.14-19.45.40:398][955]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.14-19.45.40:398][955]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.14-19.45.40:398][955]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.14-19.45.40:398][955]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2023.11.14-19.45.40:398][955]LogAudioMixer: Display: Initializing audio mixer using platform API: 'SDL2'
+[2023.11.14-19.45.40:766][955]LogAudioMixerSDL: Opening default audio device (device index -1)
+[2023.11.14-19.45.40:780][955]LogAudioMixer: Display: Using Audio Hardware Device Starship/Matisse HD Audio Controller Digital Stereo (IEC958)
+[2023.11.14-19.45.40:780][955]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.14-19.45.40:780][955]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.14-19.45.40:780][955]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.14-19.45.40:781][955]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=14
+[2023.11.14-19.45.40:781][955]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2023.11.14-19.45.40:781][955]LogInit: FAudioDevice initialized with ID 14.
+[2023.11.14-19.45.40:781][955]LogAudio: Display: Audio Device (ID: 14) registered with world 'Map_1'.
+[2023.11.14-19.45.40:781][955]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2023.11.14-19.45.40:783][955]LogLoad: Game class is 'GM_SideScroller_C'
+[2023.11.14-19.45.40:826][955]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2023.11.14-14.45.40
+[2023.11.14-19.45.40:829][955]LogWorld: Bringing up level for play took: 0.046378
+[2023.11.14-19.45.40:829][955]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2023.11.14-19.45.41:074][955]PIE: Server logged in
+[2023.11.14-19.45.41:075][955]PIE: Play in editor total start time 0.827 seconds.
+[2023.11.14-19.45.41:125][956]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.095735 > MaxSimulationTimeStep (0.050) for 'BP_ReindeerCharacter2_C_1', movement 'Walking'
+[2023.11.14-19.45.41:126][956]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.097722 > MaxSimulationTimeStep (0.050) for 'BP_ElfCharacter2_C_31', movement 'Walking'
+[2023.11.14-19.45.52:503][641]LogScript: Warning: Accessed None trying to read property EscapePrompt REF
+	BP_SpriteCharacter_C /Game/Maps/UEDPIE_0_Map_1.Map_1:PersistentLevel.BP_SpriteCharacter_C_0
+	Function /Game/Blueprints/BP_SpriteCharacter.BP_SpriteCharacter_C:ExecuteUbergraph_BP_SpriteCharacter:002A
+[2023.11.14-19.45.52:503][641]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EscapePrompt REF". Node:  Add to Viewport Graph:  EventGraph Function:  Execute Ubergraph BP Sprite Character Blueprint:  BP_SpriteCharacter
+[2023.11.14-19.45.55:335][811]LogScript: Warning: Accessed None trying to read property EscapePrompt REF
+	BP_SpriteCharacter_C /Game/Maps/UEDPIE_0_Map_1.Map_1:PersistentLevel.BP_SpriteCharacter_C_0
+	Function /Game/Blueprints/BP_SpriteCharacter.BP_SpriteCharacter_C:ExecuteUbergraph_BP_SpriteCharacter:002A
+[2023.11.14-19.45.55:335][811]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EscapePrompt REF". Node:  Add to Viewport Graph:  EventGraph Function:  Execute Ubergraph BP Sprite Character Blueprint:  BP_SpriteCharacter
+[2023.11.14-19.45.59:017][ 19]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.14-19.45.59:018][ 19]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_1
+[2023.11.14-19.45.59:019][ 19]LogWorld: UWorld::CleanupWorld for Map_1, bSessionEnded=true, bCleanupResources=true
+[2023.11.14-19.45.59:022][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.14-19.45.59:023][ 19]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.14-19.45.59:027][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.14-19.45.59:036][ 19]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.14-19.45.59:038][ 19]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2023.11.14-19.45.59:095][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.11.14-19.45.59:390][ 20]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2023.11.14-19.47.05:464][831]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.14-19.47.05:657][831]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SpriteCharacter" FILE="../../../../Unreal Projects/CSC281/CSC281/Content/Blueprints/BP_SpriteCharacter.uasset" SILENT=true
+[2023.11.14-19.47.05:732][831]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_SpriteCharacter
+[2023.11.14-19.47.05:732][831]LogSavePackage: Moving '../../../../Unreal Projects/CSC281/CSC281/Saved/BP_SpriteCharacterA7D8264FA19446069B0B604D258F303C.tmp' to '../../../../Unreal Projects/CSC281/CSC281/Content/Blueprints/BP_SpriteCharacter.uasset'
+[2023.11.14-19.47.05:758][831]LogFileHelpers: InternalPromptForCheckoutAndSave took 293 ms (total: 2.72 sec)
+[2023.11.14-19.47.05:760][831]AssetCheck: New page: Asset Save: BP_SpriteCharacter
+[2023.11.14-19.47.05:760][831]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_SpriteCharacter.BP_SpriteCharacter
+[2023.11.14-19.47.28:664][110]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.14-19.47.28:851][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/P_EscapePrompt" FILE="../../../../Unreal Projects/CSC281/CSC281/Content/Widgets/P_EscapePrompt.uasset" SILENT=true
+[2023.11.14-19.47.28:856][110]LogSavePackage: Moving output files for package: /Game/Widgets/P_EscapePrompt
+[2023.11.14-19.47.28:856][110]LogSavePackage: Moving '../../../../Unreal Projects/CSC281/CSC281/Saved/P_EscapePromptF422A8929DA74949911CB594EA8CFBCD.tmp' to '../../../../Unreal Projects/CSC281/CSC281/Content/Widgets/P_EscapePrompt.uasset'
+[2023.11.14-19.47.28:899][110]LogFileHelpers: InternalPromptForCheckoutAndSave took 235 ms (total: 2.95 sec)
+[2023.11.14-19.47.28:900][110]AssetCheck: New page: Asset Save: P_EscapePrompt
+[2023.11.14-19.47.28:900][110]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/P_EscapePrompt.P_EscapePrompt
+[2023.11.14-19.47.37:918][631]BlueprintLog: New page: Compile P_EscapePrompt
+[2023.11.14-19.47.37:922][631]LogBlueprint: Warning: [AssetLog] /home/spencer/Documents/Unreal Projects/CSC281/CSC281/Content/Widgets/P_EscapePrompt.uasset: [Compiler] On Clicked (ContinueButton)  does not have a valid matching component!
+[2023.11.14-19.47.37:941][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.11.14-19.48.03:279][ 58]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/P_RespawnPrompt.P_RespawnPrompt
+[2023.11.14-19.48.03:280][ 58]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.14-19.48.03:280][ 58]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.14-19.48.03:283][ 58]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.14-19.48.03:283][ 58]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.14-19.50.11:992][401]LogEditorTransaction: Undo Add Node
+[2023.11.14-19.50.12:638][418]LogEditorTransaction: Undo Variable Toggle
+[2023.11.14-19.50.13:143][446]LogEditorTransaction: Undo Edit Is Focusable
+[2023.11.14-19.50.13:610][471]LogEditorTransaction: Undo Edit Is Focusable
+[2023.11.14-19.50.13:991][491]LogEditorTransaction: Undo Edit Tool Tip Text
+[2023.11.14-19.50.14:258][504]LogEditorTransaction: Undo Edit Is Enabled
+[2023.11.14-19.50.14:481][515]LogEditorTransaction: Undo Edit Is Enabled
+[2023.11.14-19.50.14:685][525]LogEditorTransaction: Undo Move Nodes
+[2023.11.14-19.50.14:907][535]LogEditorTransaction: Undo Delete current selection
+[2023.11.14-19.50.15:536][568]LogEditorTransaction: Undo Delete current selection
+[2023.11.14-19.50.52:459][638]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.14-19.50.52:642][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/P_EscapePrompt" FILE="../../../../Unreal Projects/CSC281/CSC281/Content/Widgets/P_EscapePrompt.uasset" SILENT=true
+[2023.11.14-19.50.52:652][638]LogSavePackage: Moving output files for package: /Game/Widgets/P_EscapePrompt
+[2023.11.14-19.50.52:652][638]LogSavePackage: Moving '../../../../Unreal Projects/CSC281/CSC281/Saved/P_EscapePromptB1923C08303243A7AD33F8923336F201.tmp' to '../../../../Unreal Projects/CSC281/CSC281/Content/Widgets/P_EscapePrompt.uasset'
+[2023.11.14-19.50.52:690][638]LogFileHelpers: InternalPromptForCheckoutAndSave took 230 ms (total: 3.18 sec)
+[2023.11.14-19.50.52:691][638]AssetCheck: New page: Asset Save: P_EscapePrompt
+[2023.11.14-19.50.52:691][638]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/P_EscapePrompt.P_EscapePrompt
+[2023.11.14-19.51.18:179][ 88]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.14-19.51.18:366][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SpriteCharacter" FILE="../../../../Unreal Projects/CSC281/CSC281/Content/Blueprints/BP_SpriteCharacter.uasset" SILENT=true
+[2023.11.14-19.51.18:451][ 88]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_SpriteCharacter
+[2023.11.14-19.51.18:451][ 88]LogSavePackage: Moving '../../../../Unreal Projects/CSC281/CSC281/Saved/BP_SpriteCharacter499422603D354CEC85806BEFAB3652C5.tmp' to '../../../../Unreal Projects/CSC281/CSC281/Content/Blueprints/BP_SpriteCharacter.uasset'
+[2023.11.14-19.51.18:499][ 88]LogFileHelpers: InternalPromptForCheckoutAndSave took 320 ms (total: 3.50 sec)
+[2023.11.14-19.51.18:501][ 88]AssetCheck: New page: Asset Save: BP_SpriteCharacter
+[2023.11.14-19.51.18:501][ 88]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_SpriteCharacter.BP_SpriteCharacter
+[2023.11.14-19.51.20:868][217]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.14-19.51.20:872][217]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.11.14-19.51.20:881][217]LogPlayLevel: [PlayLevel] Compiling BP_SpriteCharacter before play...
+[2023.11.14-19.51.21:102][217]LogPlayLevel: [PlayLevel] Compiling P_EscapePrompt before play...
+[2023.11.14-19.51.21:155][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.11.14-19.51.21:158][217]LogPlayLevel: PlayLevel: Blueprint regeneration took 285 ms (2 blueprints)
+[2023.11.14-19.51.21:158][217]PIE: New page: PIE session: Map_1 (Nov 14, 2023, 9:51:21 AM)
+[2023.11.14-19.51.21:158][217]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_1
+[2023.11.14-19.51.21:176][217]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018732s)
+[2023.11.14-19.51.21:176][217]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_1.Map_1 to /Game/Maps/UEDPIE_0_Map_1.Map_1 (0.018756s)
+[2023.11.14-19.51.21:194][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.11.14-19.51.21:195][217]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.14-19.51.21:195][217]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.14-19.51.21:195][217]LogAIModule: Creating AISystem for world Map_1
+[2023.11.14-19.51.21:196][217]LogPlayLevel: PIE: World Init took: (0.000714s)
+[2023.11.14-19.51.21:196][217]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.11.14-19.51.21:196][217]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.14-19.51.21:196][217]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.14-19.51.21:196][217]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.14-19.51.21:196][217]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.14-19.51.21:196][217]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.14-19.51.21:196][217]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.14-19.51.21:196][217]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.14-19.51.21:196][217]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.14-19.51.21:196][217]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.14-19.51.21:196][217]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.14-19.51.21:196][217]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.14-19.51.21:196][217]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2023.11.14-19.51.21:196][217]LogAudioMixer: Display: Initializing audio mixer using platform API: 'SDL2'
+[2023.11.14-19.51.21:575][217]LogAudioMixerSDL: Opening default audio device (device index -1)
+[2023.11.14-19.51.21:589][217]LogAudioMixer: Display: Using Audio Hardware Device Starship/Matisse HD Audio Controller Digital Stereo (IEC958)
+[2023.11.14-19.51.21:589][217]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.14-19.51.21:589][217]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.14-19.51.21:589][217]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.14-19.51.21:590][217]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=15
+[2023.11.14-19.51.21:590][217]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2023.11.14-19.51.21:590][217]LogInit: FAudioDevice initialized with ID 15.
+[2023.11.14-19.51.21:590][217]LogAudio: Display: Audio Device (ID: 15) registered with world 'Map_1'.
+[2023.11.14-19.51.21:590][217]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2023.11.14-19.51.21:593][217]LogLoad: Game class is 'GM_SideScroller_C'
+[2023.11.14-19.51.21:633][217]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2023.11.14-14.51.21
+[2023.11.14-19.51.21:636][217]LogWorld: Bringing up level for play took: 0.043289
+[2023.11.14-19.51.21:636][217]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2023.11.14-19.51.21:877][217]PIE: Server logged in
+[2023.11.14-19.51.21:877][217]PIE: Play in editor total start time 1.005 seconds.
+[2023.11.14-19.51.21:958][218]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.095008 > MaxSimulationTimeStep (0.050) for 'BP_ReindeerCharacter2_C_1', movement 'Walking'
+[2023.11.14-19.51.21:959][218]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.097000 > MaxSimulationTimeStep (0.050) for 'BP_ElfCharacter2_C_31', movement 'Walking'
+[2023.11.14-19.51.23:592][319]LogScript: Warning: Accessed None trying to read property EscapePrompt REF
+	BP_SpriteCharacter_C /Game/Maps/UEDPIE_0_Map_1.Map_1:PersistentLevel.BP_SpriteCharacter_C_0
+	Function /Game/Blueprints/BP_SpriteCharacter.BP_SpriteCharacter_C:ExecuteUbergraph_BP_SpriteCharacter:002A
+[2023.11.14-19.51.23:593][319]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EscapePrompt REF". Node:  Add to Viewport Graph:  EventGraph Function:  Execute Ubergraph BP Sprite Character Blueprint:  BP_SpriteCharacter
+[2023.11.14-19.51.23:927][339]LogScript: Warning: Accessed None trying to read property EscapePrompt REF
+	BP_SpriteCharacter_C /Game/Maps/UEDPIE_0_Map_1.Map_1:PersistentLevel.BP_SpriteCharacter_C_0
+	Function /Game/Blueprints/BP_SpriteCharacter.BP_SpriteCharacter_C:ExecuteUbergraph_BP_SpriteCharacter:002A
+[2023.11.14-19.51.23:927][339]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EscapePrompt REF". Node:  Add to Viewport Graph:  EventGraph Function:  Execute Ubergraph BP Sprite Character Blueprint:  BP_SpriteCharacter
+[2023.11.14-19.51.24:126][351]LogScript: Warning: Accessed None trying to read property EscapePrompt REF
+	BP_SpriteCharacter_C /Game/Maps/UEDPIE_0_Map_1.Map_1:PersistentLevel.BP_SpriteCharacter_C_0
+	Function /Game/Blueprints/BP_SpriteCharacter.BP_SpriteCharacter_C:ExecuteUbergraph_BP_SpriteCharacter:002A
+[2023.11.14-19.51.24:126][351]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EscapePrompt REF". Node:  Add to Viewport Graph:  EventGraph Function:  Execute Ubergraph BP Sprite Character Blueprint:  BP_SpriteCharacter
+[2023.11.14-19.51.24:292][361]LogScript: Warning: Accessed None trying to read property EscapePrompt REF
+	BP_SpriteCharacter_C /Game/Maps/UEDPIE_0_Map_1.Map_1:PersistentLevel.BP_SpriteCharacter_C_0
+	Function /Game/Blueprints/BP_SpriteCharacter.BP_SpriteCharacter_C:ExecuteUbergraph_BP_SpriteCharacter:002A
+[2023.11.14-19.51.24:293][361]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EscapePrompt REF". Node:  Add to Viewport Graph:  EventGraph Function:  Execute Ubergraph BP Sprite Character Blueprint:  BP_SpriteCharacter
+[2023.11.14-19.51.26:989][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.14-19.51.26:989][521]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_1
+[2023.11.14-19.51.26:990][521]LogWorld: UWorld::CleanupWorld for Map_1, bSessionEnded=true, bCleanupResources=true
+[2023.11.14-19.51.26:993][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.14-19.51.26:994][521]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.14-19.51.26:998][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.14-19.51.27:012][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.14-19.51.27:014][521]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2023.11.14-19.51.27:066][521]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.11.14-19.51.27:302][522]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2023.11.14-19.53.12:879][479]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.14-19.53.13:074][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SpriteCharacter" FILE="../../../../Unreal Projects/CSC281/CSC281/Content/Blueprints/BP_SpriteCharacter.uasset" SILENT=true
+[2023.11.14-19.53.13:127][479]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_SpriteCharacter
+[2023.11.14-19.53.13:127][479]LogSavePackage: Moving '../../../../Unreal Projects/CSC281/CSC281/Saved/BP_SpriteCharacter40A4DC70096B48669737D45AF325578E.tmp' to '../../../../Unreal Projects/CSC281/CSC281/Content/Blueprints/BP_SpriteCharacter.uasset'
+[2023.11.14-19.53.13:157][479]LogFileHelpers: InternalPromptForCheckoutAndSave took 278 ms (total: 3.78 sec)
+[2023.11.14-19.53.13:159][479]AssetCheck: New page: Asset Save: BP_SpriteCharacter
+[2023.11.14-19.53.13:159][479]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_SpriteCharacter.BP_SpriteCharacter
+[2023.11.14-19.53.14:402][546]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.14-19.53.14:406][546]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.11.14-19.53.14:412][546]LogPlayLevel: [PlayLevel] Compiling BP_SpriteCharacter before play...
+[2023.11.14-19.53.14:656][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.11.14-19.53.14:658][546]LogPlayLevel: PlayLevel: Blueprint regeneration took 252 ms (1 blueprints)
+[2023.11.14-19.53.14:658][546]PIE: New page: PIE session: Map_1 (Nov 14, 2023, 9:53:14 AM)
+[2023.11.14-19.53.14:659][546]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_1
+[2023.11.14-19.53.14:678][546]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019087s)
+[2023.11.14-19.53.14:678][546]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_1.Map_1 to /Game/Maps/UEDPIE_0_Map_1.Map_1 (0.019112s)
+[2023.11.14-19.53.14:696][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.11.14-19.53.14:697][546]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.14-19.53.14:697][546]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.14-19.53.14:698][546]LogAIModule: Creating AISystem for world Map_1
+[2023.11.14-19.53.14:698][546]LogPlayLevel: PIE: World Init took: (0.000722s)
+[2023.11.14-19.53.14:698][546]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.11.14-19.53.14:698][546]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.14-19.53.14:698][546]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.14-19.53.14:698][546]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.14-19.53.14:698][546]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.14-19.53.14:698][546]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.14-19.53.14:698][546]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.14-19.53.14:698][546]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.14-19.53.14:698][546]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.14-19.53.14:698][546]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.14-19.53.14:698][546]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.14-19.53.14:698][546]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.14-19.53.14:698][546]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2023.11.14-19.53.14:699][546]LogAudioMixer: Display: Initializing audio mixer using platform API: 'SDL2'
+[2023.11.14-19.53.15:076][546]LogAudioMixerSDL: Opening default audio device (device index -1)
+[2023.11.14-19.53.15:088][546]LogAudioMixer: Display: Using Audio Hardware Device Starship/Matisse HD Audio Controller Digital Stereo (IEC958)
+[2023.11.14-19.53.15:088][546]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.14-19.53.15:088][546]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.14-19.53.15:088][546]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.14-19.53.15:090][546]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=16
+[2023.11.14-19.53.15:090][546]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2023.11.14-19.53.15:090][546]LogInit: FAudioDevice initialized with ID 16.
+[2023.11.14-19.53.15:090][546]LogAudio: Display: Audio Device (ID: 16) registered with world 'Map_1'.
+[2023.11.14-19.53.15:090][546]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2023.11.14-19.53.15:092][546]LogLoad: Game class is 'GM_SideScroller_C'
+[2023.11.14-19.53.15:138][546]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2023.11.14-14.53.15
+[2023.11.14-19.53.15:140][546]LogWorld: Bringing up level for play took: 0.048024
+[2023.11.14-19.53.15:141][546]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2023.11.14-19.53.15:397][546]PIE: Server logged in
+[2023.11.14-19.53.15:398][546]PIE: Play in editor total start time 0.992 seconds.
+[2023.11.14-19.53.15:853][547]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.090427 > MaxSimulationTimeStep (0.050) for 'BP_ReindeerCharacter2_C_1', movement 'Walking'
+[2023.11.14-19.53.15:854][547]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.092447 > MaxSimulationTimeStep (0.050) for 'BP_ElfCharacter2_C_31', movement 'Walking'
+[2023.11.14-19.53.19:393][759]LogSlate: Window 'Message Log' being destroyed
+[2023.11.14-19.53.19:475][759]LogSlate: Window 'Message Log' being destroyed
+[2023.11.14-19.53.23:012][971]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GameInstance_14.P_EscapePrompt_C_0.WidgetTree_0.CanvasPanel' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.11.14-19.53.23:912][ 25]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GameInstance_14.P_EscapePrompt_C_0.WidgetTree_0.CanvasPanel' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.11.14-19.53.24:330][ 50]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GameInstance_14.P_EscapePrompt_C_0.WidgetTree_0.CanvasPanel' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.11.14-19.53.24:512][ 61]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GameInstance_14.P_EscapePrompt_C_0.WidgetTree_0.CanvasPanel' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.11.14-19.53.24:713][ 73]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GameInstance_14.P_EscapePrompt_C_0.WidgetTree_0.CanvasPanel' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.11.14-19.53.26:247][165]Cmd: quit
+[2023.11.14-19.53.26:248][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.14-19.53.26:248][165]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_1
+[2023.11.14-19.53.26:271][165]LogWorld: UWorld::CleanupWorld for Map_1, bSessionEnded=true, bCleanupResources=true
+[2023.11.14-19.53.26:273][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.14-19.53.26:278][165]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.14-19.53.26:281][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.14-19.53.26:298][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.14-19.53.26:300][165]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2023.11.14-19.53.26:352][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.11.14-19.53.26:422][166]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2023.11.14-19.53.27:879][250]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.14-19.53.27:886][250]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.14-19.53.27:887][250]PIE: New page: PIE session: Map_1 (Nov 14, 2023, 9:53:27 AM)
+[2023.11.14-19.53.27:887][250]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_1
+[2023.11.14-19.53.27:923][250]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036570s)
+[2023.11.14-19.53.27:923][250]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_1.Map_1 to /Game/Maps/UEDPIE_0_Map_1.Map_1 (0.036606s)
+[2023.11.14-19.53.27:932][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.11.14-19.53.27:934][250]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.14-19.53.27:934][250]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.14-19.53.27:935][250]LogAIModule: Creating AISystem for world Map_1
+[2023.11.14-19.53.27:935][250]LogPlayLevel: PIE: World Init took: (0.000827s)
+[2023.11.14-19.53.27:935][250]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2023.11.14-19.53.27:935][250]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.14-19.53.27:935][250]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.14-19.53.27:935][250]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.14-19.53.27:935][250]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.14-19.53.27:935][250]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.14-19.53.27:935][250]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.14-19.53.27:935][250]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.14-19.53.27:935][250]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.14-19.53.27:935][250]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.14-19.53.27:935][250]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.14-19.53.27:935][250]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.14-19.53.27:935][250]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2023.11.14-19.53.27:935][250]LogAudioMixer: Display: Initializing audio mixer using platform API: 'SDL2'
+[2023.11.14-19.53.28:309][250]LogAudioMixerSDL: Opening default audio device (device index -1)
+[2023.11.14-19.53.28:325][250]LogAudioMixer: Display: Using Audio Hardware Device Starship/Matisse HD Audio Controller Digital Stereo (IEC958)
+[2023.11.14-19.53.28:325][250]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.14-19.53.28:325][250]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.14-19.53.28:325][250]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.14-19.53.28:326][250]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=17
+[2023.11.14-19.53.28:326][250]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2023.11.14-19.53.28:326][250]LogInit: FAudioDevice initialized with ID 17.
+[2023.11.14-19.53.28:326][250]LogAudio: Display: Audio Device (ID: 17) registered with world 'Map_1'.
+[2023.11.14-19.53.28:326][250]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2023.11.14-19.53.28:328][250]LogLoad: Game class is 'GM_SideScroller_C'
+[2023.11.14-19.53.28:401][250]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2023.11.14-14.53.28
+[2023.11.14-19.53.28:404][250]LogWorld: Bringing up level for play took: 0.075166
+[2023.11.14-19.53.28:404][250]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2023.11.14-19.53.28:666][250]PIE: Server logged in
+[2023.11.14-19.53.28:667][250]PIE: Play in editor total start time 0.78 seconds.
+[2023.11.14-19.53.28:708][251]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.094776 > MaxSimulationTimeStep (0.050) for 'BP_ReindeerCharacter2_C_1', movement 'Walking'
+[2023.11.14-19.53.28:709][251]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.096769 > MaxSimulationTimeStep (0.050) for 'BP_ElfCharacter2_C_31', movement 'Walking'
+[2023.11.14-19.53.34:456][597]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GameInstance_15.P_EscapePrompt_C_0.WidgetTree_0.CanvasPanel' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.11.14-19.53.35:439][656]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GameInstance_15.P_EscapePrompt_C_0.WidgetTree_0.CanvasPanel' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.11.14-19.53.35:888][683]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GameInstance_15.P_EscapePrompt_C_0.WidgetTree_0.CanvasPanel' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.11.14-19.53.36:072][694]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GameInstance_15.P_EscapePrompt_C_0.WidgetTree_0.CanvasPanel' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.11.14-19.53.36:222][703]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GameInstance_15.P_EscapePrompt_C_0.WidgetTree_0.CanvasPanel' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.11.14-19.53.36:388][713]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GameInstance_15.P_EscapePrompt_C_0.WidgetTree_0.CanvasPanel' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.11.14-19.53.36:572][724]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GameInstance_15.P_EscapePrompt_C_0.WidgetTree_0.CanvasPanel' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.11.14-19.53.37:306][768]LogScript: Warning: Script Msg: The widget 'P_EscapePrompt_C_0' was already added to the screen.
+[2023.11.14-19.53.37:306][768]LogScript: Warning: Script Msg called by: BP_SpriteCharacter_C /Game/Maps/UEDPIE_0_Map_1.Map_1:PersistentLevel.BP_SpriteCharacter_C_0
+[2023.11.14-19.53.39:039][863]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.14-19.53.39:039][863]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_1
+[2023.11.14-19.53.39:040][863]LogWorld: UWorld::CleanupWorld for Map_1, bSessionEnded=true, bCleanupResources=true
+[2023.11.14-19.53.39:042][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.14-19.53.39:044][863]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.14-19.53.39:049][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.14-19.53.39:068][863]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.14-19.53.39:070][863]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2023.11.14-19.53.39:120][863]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.11.14-19.53.39:185][864]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2023.11.14-19.54.58:453][435]LogBlueprint: Warning: [AssetLog] /home/spencer/Documents/Unreal Projects/CSC281/CSC281/Content/Blueprints/BP_SpriteCharacter.uasset: [Compiler] Pasted node  CustomEvent   conflicted with  RespawnButtonClicked  and was replaced as a Custom Event!
+[2023.11.14-19.55.56:893][617]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.14-19.55.57:087][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/P_EscapePrompt" FILE="../../../../Unreal Projects/CSC281/CSC281/Content/Widgets/P_EscapePrompt.uasset" SILENT=true
+[2023.11.14-19.55.57:096][617]LogSavePackage: Moving output files for package: /Game/Widgets/P_EscapePrompt
+[2023.11.14-19.55.57:096][617]LogSavePackage: Moving '../../../../Unreal Projects/CSC281/CSC281/Saved/P_EscapePromptF8F545DE1D3943C2BBE5F551812FD62B.tmp' to '../../../../Unreal Projects/CSC281/CSC281/Content/Widgets/P_EscapePrompt.uasset'
+[2023.11.14-19.55.57:153][617]LogFileHelpers: InternalPromptForCheckoutAndSave took 259 ms (total: 4.04 sec)
+[2023.11.14-19.55.57:155][617]AssetCheck: New page: Asset Save: P_EscapePrompt
+[2023.11.14-19.55.57:155][617]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/P_EscapePrompt.P_EscapePrompt
+[2023.11.14-19.56.44:746][318]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.14-19.56.44:917][318]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SpriteCharacter" FILE="../../../../Unreal Projects/CSC281/CSC281/Content/Blueprints/BP_SpriteCharacter.uasset" SILENT=true
+[2023.11.14-19.56.44:971][318]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_SpriteCharacter
+[2023.11.14-19.56.44:972][318]LogSavePackage: Moving '../../../../Unreal Projects/CSC281/CSC281/Saved/BP_SpriteCharacterF890B257FBBF4957AECD6DE5B6B2DFB7.tmp' to '../../../../Unreal Projects/CSC281/CSC281/Content/Blueprints/BP_SpriteCharacter.uasset'
+[2023.11.14-19.56.45:005][318]LogFileHelpers: InternalPromptForCheckoutAndSave took 258 ms (total: 4.30 sec)
+[2023.11.14-19.56.45:007][318]AssetCheck: New page: Asset Save: BP_SpriteCharacter
+[2023.11.14-19.56.45:007][318]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_SpriteCharacter.BP_SpriteCharacter
+[2023.11.14-19.56.45:688][356]BlueprintLog: New page: Compile BP_SpriteCharacter
+[2023.11.14-19.56.45:763][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.11.14-19.56.49:004][515]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.14-19.56.49:011][515]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.11.14-19.56.49:021][515]LogPlayLevel: [PlayLevel] Compiling P_EscapePrompt before play...
+[2023.11.14-19.56.49:147][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.11.14-19.56.49:152][515]LogPlayLevel: PlayLevel: Blueprint regeneration took 141 ms (1 blueprints)
+[2023.11.14-19.56.49:152][515]PIE: New page: PIE session: Map_1 (Nov 14, 2023, 9:56:49 AM)
+[2023.11.14-19.56.49:153][515]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_1
+[2023.11.14-19.56.49:172][515]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019766s)
+[2023.11.14-19.56.49:172][515]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_1.Map_1 to /Game/Maps/UEDPIE_0_Map_1.Map_1 (0.019792s)
+[2023.11.14-19.56.49:191][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.11.14-19.56.49:192][515]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.14-19.56.49:192][515]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.14-19.56.49:192][515]LogAIModule: Creating AISystem for world Map_1
+[2023.11.14-19.56.49:192][515]LogPlayLevel: PIE: World Init took: (0.000709s)
+[2023.11.14-19.56.49:192][515]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2023.11.14-19.56.49:192][515]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.14-19.56.49:192][515]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.14-19.56.49:192][515]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.14-19.56.49:192][515]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.14-19.56.49:192][515]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.14-19.56.49:192][515]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.14-19.56.49:192][515]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.14-19.56.49:192][515]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.14-19.56.49:193][515]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.14-19.56.49:193][515]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.14-19.56.49:193][515]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.14-19.56.49:193][515]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2023.11.14-19.56.49:193][515]LogAudioMixer: Display: Initializing audio mixer using platform API: 'SDL2'
+[2023.11.14-19.56.49:572][515]LogAudioMixerSDL: Opening default audio device (device index -1)
+[2023.11.14-19.56.49:587][515]LogAudioMixer: Display: Using Audio Hardware Device Starship/Matisse HD Audio Controller Digital Stereo (IEC958)
+[2023.11.14-19.56.49:587][515]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.14-19.56.49:587][515]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.14-19.56.49:587][515]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.14-19.56.49:588][515]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=18
+[2023.11.14-19.56.49:588][515]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2023.11.14-19.56.49:588][515]LogInit: FAudioDevice initialized with ID 18.
+[2023.11.14-19.56.49:588][515]LogAudio: Display: Audio Device (ID: 18) registered with world 'Map_1'.
+[2023.11.14-19.56.49:588][515]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2023.11.14-19.56.49:590][515]LogLoad: Game class is 'GM_SideScroller_C'
+[2023.11.14-19.56.49:637][515]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2023.11.14-14.56.49
+[2023.11.14-19.56.49:640][515]LogWorld: Bringing up level for play took: 0.049259
+[2023.11.14-19.56.49:640][515]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2023.11.14-19.56.49:913][515]PIE: Server logged in
+[2023.11.14-19.56.49:914][515]PIE: Play in editor total start time 0.903 seconds.
+[2023.11.14-19.56.49:997][516]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.087145 > MaxSimulationTimeStep (0.050) for 'BP_ReindeerCharacter2_C_1', movement 'Walking'
+[2023.11.14-19.56.49:998][516]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.089186 > MaxSimulationTimeStep (0.050) for 'BP_ElfCharacter2_C_31', movement 'Walking'
+[2023.11.14-19.56.50:000][516]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.099390 > MaxSimulationTimeStep (0.050) for 'BP_MrsClauseCharacter_C_0', movement 'Walking'
+[2023.11.14-19.57.02:913][293]LogBlueprintUserMessages: [BP_SpriteCharacter_C_0] BP_ElfCharacter30
+[2023.11.14-19.57.02:914][293]LogBlueprintUserMessages: [HealthBar_C_0] 0.2
+[2023.11.14-19.57.02:914][293]LogBlueprintUserMessages: [BP_SpriteCharacter_C_0] 1.0
+[2023.11.14-19.57.02:914][293]LogBlueprintUserMessages: [BP_SpriteCharacter_C_0] 5.0
+[2023.11.14-19.57.14:253][971]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.14-19.57.14:253][971]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_1
+[2023.11.14-19.57.14:254][971]LogWorld: UWorld::CleanupWorld for Map_1, bSessionEnded=true, bCleanupResources=true
+[2023.11.14-19.57.14:256][971]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.14-19.57.14:257][971]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.14-19.57.14:262][971]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.14-19.57.14:280][971]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.14-19.57.14:282][971]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2023.11.14-19.57.14:337][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.11.14-19.57.14:417][972]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2023.11.14-19.59.01:047][890]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.14-19.59.01:258][890]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SpriteCharacter" FILE="../../../../Unreal Projects/CSC281/CSC281/Content/Blueprints/BP_SpriteCharacter.uasset" SILENT=true
+[2023.11.14-19.59.01:313][890]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_SpriteCharacter
+[2023.11.14-19.59.01:313][890]LogSavePackage: Moving '../../../../Unreal Projects/CSC281/CSC281/Saved/BP_SpriteCharacterFE37D8B07E394383A38F5B3C29E08AFE.tmp' to '../../../../Unreal Projects/CSC281/CSC281/Content/Blueprints/BP_SpriteCharacter.uasset'
+[2023.11.14-19.59.01:338][890]LogFileHelpers: InternalPromptForCheckoutAndSave took 291 ms (total: 4.59 sec)
+[2023.11.14-19.59.01:340][890]AssetCheck: New page: Asset Save: BP_SpriteCharacter
+[2023.11.14-19.59.01:340][890]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_SpriteCharacter.BP_SpriteCharacter
+[2023.11.14-19.59.03:851][ 36]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.14-19.59.03:855][ 36]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.11.14-19.59.03:862][ 36]LogPlayLevel: [PlayLevel] Compiling BP_SpriteCharacter before play...
+[2023.11.14-19.59.04:009][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.11.14-19.59.04:012][ 36]LogPlayLevel: PlayLevel: Blueprint regeneration took 156 ms (1 blueprints)
+[2023.11.14-19.59.04:012][ 36]PIE: New page: PIE session: Map_1 (Nov 14, 2023, 9:59:04 AM)
+[2023.11.14-19.59.04:012][ 36]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_1
+[2023.11.14-19.59.04:032][ 36]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019751s)
+[2023.11.14-19.59.04:032][ 36]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_1.Map_1 to /Game/Maps/UEDPIE_0_Map_1.Map_1 (0.019780s)
+[2023.11.14-19.59.04:043][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.11.14-19.59.04:044][ 36]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.14-19.59.04:044][ 36]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.14-19.59.04:045][ 36]LogAIModule: Creating AISystem for world Map_1
+[2023.11.14-19.59.04:045][ 36]LogPlayLevel: PIE: World Init took: (0.001030s)
+[2023.11.14-19.59.04:045][ 36]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2023.11.14-19.59.04:045][ 36]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.14-19.59.04:045][ 36]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.14-19.59.04:045][ 36]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.14-19.59.04:045][ 36]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.14-19.59.04:045][ 36]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.14-19.59.04:045][ 36]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.14-19.59.04:045][ 36]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.14-19.59.04:045][ 36]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.14-19.59.04:045][ 36]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.14-19.59.04:045][ 36]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.14-19.59.04:045][ 36]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.14-19.59.04:045][ 36]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2023.11.14-19.59.04:046][ 36]LogAudioMixer: Display: Initializing audio mixer using platform API: 'SDL2'
+[2023.11.14-19.59.04:408][ 36]LogAudioMixerSDL: Opening default audio device (device index -1)
+[2023.11.14-19.59.04:419][ 36]LogAudioMixer: Display: Using Audio Hardware Device Starship/Matisse HD Audio Controller Digital Stereo (IEC958)
+[2023.11.14-19.59.04:420][ 36]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.14-19.59.04:420][ 36]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.14-19.59.04:420][ 36]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.14-19.59.04:422][ 36]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=19
+[2023.11.14-19.59.04:422][ 36]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2023.11.14-19.59.04:422][ 36]LogInit: FAudioDevice initialized with ID 19.
+[2023.11.14-19.59.04:422][ 36]LogAudio: Display: Audio Device (ID: 19) registered with world 'Map_1'.
+[2023.11.14-19.59.04:422][ 36]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2023.11.14-19.59.04:424][ 36]LogLoad: Game class is 'GM_SideScroller_C'
+[2023.11.14-19.59.04:492][ 36]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2023.11.14-14.59.04
+[2023.11.14-19.59.04:495][ 36]LogWorld: Bringing up level for play took: 0.070680
+[2023.11.14-19.59.04:495][ 36]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2023.11.14-19.59.04:749][ 36]PIE: Server logged in
+[2023.11.14-19.59.04:749][ 36]PIE: Play in editor total start time 0.894 seconds.
+[2023.11.14-19.59.04:822][ 37]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.094993 > MaxSimulationTimeStep (0.050) for 'BP_ReindeerCharacter2_C_1', movement 'Walking'
+[2023.11.14-19.59.04:823][ 37]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.096985 > MaxSimulationTimeStep (0.050) for 'BP_ElfCharacter2_C_31', movement 'Walking'
+[2023.11.14-19.59.14:068][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.14-19.59.14:068][592]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_1
+[2023.11.14-19.59.14:069][592]LogWorld: UWorld::CleanupWorld for Map_1, bSessionEnded=true, bCleanupResources=true
+[2023.11.14-19.59.14:072][592]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.14-19.59.14:073][592]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.14-19.59.14:078][592]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.14-19.59.14:097][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.14-19.59.14:100][592]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2023.11.14-19.59.14:157][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.11.14-19.59.14:241][593]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2023.11.14-19.59.20:182][886]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.14-19.59.20:378][886]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SpriteCharacter" FILE="../../../../Unreal Projects/CSC281/CSC281/Content/Blueprints/BP_SpriteCharacter.uasset" SILENT=true
+[2023.11.14-19.59.20:462][886]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_SpriteCharacter
+[2023.11.14-19.59.20:462][886]LogSavePackage: Moving '../../../../Unreal Projects/CSC281/CSC281/Saved/BP_SpriteCharacter28C65D8974EF46C19F8B13E19B360468.tmp' to '../../../../Unreal Projects/CSC281/CSC281/Content/Blueprints/BP_SpriteCharacter.uasset'
+[2023.11.14-19.59.20:492][886]LogFileHelpers: InternalPromptForCheckoutAndSave took 310 ms (total: 4.90 sec)
+[2023.11.14-19.59.20:493][886]AssetCheck: New page: Asset Save: BP_SpriteCharacter
+[2023.11.14-19.59.20:493][886]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_SpriteCharacter.BP_SpriteCharacter
+[2023.11.14-19.59.21:842][949]BlueprintLog: New page: Compile BP_SpriteCharacter
+[2023.11.14-19.59.21:911][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.11.14-19.59.24:817][ 87]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.14-19.59.24:823][ 87]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.14-19.59.24:823][ 87]PIE: New page: PIE session: Map_1 (Nov 14, 2023, 9:59:24 AM)
+[2023.11.14-19.59.24:857][ 87]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_1
+[2023.11.14-19.59.24:890][ 87]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032936s)
+[2023.11.14-19.59.24:890][ 87]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_1.Map_1 to /Game/Maps/UEDPIE_0_Map_1.Map_1 (0.032975s)
+[2023.11.14-19.59.24:906][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.11.14-19.59.24:916][ 87]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.14-19.59.24:916][ 87]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.14-19.59.24:917][ 87]LogAIModule: Creating AISystem for world Map_1
+[2023.11.14-19.59.24:917][ 87]LogPlayLevel: PIE: World Init took: (0.000868s)
+[2023.11.14-19.59.24:917][ 87]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2023.11.14-19.59.24:917][ 87]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.14-19.59.24:917][ 87]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.14-19.59.24:917][ 87]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.14-19.59.24:917][ 87]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.14-19.59.24:917][ 87]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.14-19.59.24:917][ 87]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.14-19.59.24:917][ 87]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.14-19.59.24:917][ 87]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.14-19.59.24:917][ 87]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.14-19.59.24:917][ 87]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.14-19.59.24:917][ 87]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.14-19.59.24:917][ 87]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2023.11.14-19.59.24:917][ 87]LogAudioMixer: Display: Initializing audio mixer using platform API: 'SDL2'
+[2023.11.14-19.59.25:294][ 87]LogAudioMixerSDL: Opening default audio device (device index -1)
+[2023.11.14-19.59.25:309][ 87]LogAudioMixer: Display: Using Audio Hardware Device Starship/Matisse HD Audio Controller Digital Stereo (IEC958)
+[2023.11.14-19.59.25:310][ 87]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.14-19.59.25:310][ 87]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.14-19.59.25:310][ 87]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.14-19.59.25:311][ 87]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=20
+[2023.11.14-19.59.25:311][ 87]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2023.11.14-19.59.25:311][ 87]LogInit: FAudioDevice initialized with ID 20.
+[2023.11.14-19.59.25:311][ 87]LogAudio: Display: Audio Device (ID: 20) registered with world 'Map_1'.
+[2023.11.14-19.59.25:311][ 87]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2023.11.14-19.59.25:313][ 87]LogLoad: Game class is 'GM_SideScroller_C'
+[2023.11.14-19.59.25:386][ 87]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2023.11.14-14.59.25
+[2023.11.14-19.59.25:389][ 87]LogWorld: Bringing up level for play took: 0.075095
+[2023.11.14-19.59.25:389][ 87]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2023.11.14-19.59.25:614][ 87]PIE: Server logged in
+[2023.11.14-19.59.25:614][ 87]PIE: Play in editor total start time 0.791 seconds.
+[2023.11.14-19.59.25:655][ 88]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.087144 > MaxSimulationTimeStep (0.050) for 'BP_ReindeerCharacter2_C_1', movement 'Walking'
+[2023.11.14-19.59.25:656][ 88]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.089185 > MaxSimulationTimeStep (0.050) for 'BP_ElfCharacter2_C_31', movement 'Walking'
+[2023.11.14-19.59.25:658][ 88]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.099389 > MaxSimulationTimeStep (0.050) for 'BP_MrsClauseCharacter_C_0', movement 'Walking'
+[2023.11.14-19.59.31:988][467]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.14-19.59.31:988][467]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_1
+[2023.11.14-19.59.31:989][467]LogWorld: UWorld::CleanupWorld for Map_1, bSessionEnded=true, bCleanupResources=true
+[2023.11.14-19.59.31:992][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.14-19.59.31:993][467]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.14-19.59.31:997][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.14-19.59.32:017][467]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.14-19.59.32:018][467]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2023.11.14-19.59.32:062][467]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.14-19.59.32:071][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.11.14-19.59.32:145][468]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2023.11.14-19.59.34:516][613]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.14-19.59.34:680][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map_1" FILE="../../../../Unreal Projects/CSC281/CSC281/Content/Maps/Map_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.14-19.59.34:721][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.11.14-19.59.34:791][613]LogSavePackage: Moving output files for package: /Game/Maps/Map_1
+[2023.11.14-19.59.34:791][613]LogSavePackage: Moving '../../../../Unreal Projects/CSC281/CSC281/Saved/Map_1487326B1BADD4D21A969C5C37EB0255E.tmp' to '../../../../Unreal Projects/CSC281/CSC281/Content/Maps/Map_1.umap'
+[2023.11.14-19.59.34:794][613]LogFileHelpers: Saving map 'Map_1' took 0.115
+[2023.11.14-19.59.34:854][613]LogFileHelpers: InternalPromptForCheckoutAndSave took 337 ms (total: 5.24 sec)
+[2023.11.14-19.59.34:856][613]AssetCheck: New page: Asset Save: Map_1
+[2023.11.14-19.59.34:856][613]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Map_1.Map_1
