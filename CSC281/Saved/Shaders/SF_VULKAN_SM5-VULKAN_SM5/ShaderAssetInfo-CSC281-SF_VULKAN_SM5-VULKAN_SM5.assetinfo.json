@@ -467,6 +467,15 @@
 			]
 		},
 		{
+			"ShaderMapHash": "9AAB5F77B99A20C4C86C966EAAFF511D910839CD",
+			"Assets": [
+				"/Game/Widgets/IceInfoBubble_Mat",
+				"/Game/Widgets/MovementInfoBubble_Mat",
+				"/Game/Widgets/PoundInfoBubble_Mat",
+				"/Game/Widgets/PunchingInfoBubble_Mat"
+			]
+		},
+		{
 			"ShaderMapHash": "F79BB978F4288E24BCFD80C8A64C505EF104B168",
 			"Assets": [
 				"/Game/StarterContent/Props/Materials/M_Chair"
