@@ -19,7 +19,21 @@
 				"/home/spencer/Documents/Unreal Projects/CSC281/CSC281/Content/UI/GameComplete/CreditsMenu.uasset",
 				"/home/spencer/Documents/Unreal Projects/CSC281/CSC281/Content/Maps/CompleteMenuLevel.umap",
 				"/home/spencer/Documents/Unreal Projects/CSC281/CSC281/Content/Blueprints/BP_Yeti.uasset",
-				"/home/spencer/Documents/Unreal Projects/CSC281/CSC281/Content/Blueprints/BP_SpriteCharacter.uasset"
+				"/home/spencer/Documents/Unreal Projects/CSC281/CSC281/Content/Blueprints/BP_SpriteCharacter.uasset",
+				"/home/spencer/Documents/Unreal Projects/CSC281/CSC281/Content/UI/GameComplete/BlankScreen.uasset",
+				"/home/spencer/Documents/Unreal Projects/CSC281/CSC281/Content/Sounds/background_music/Game/ChillWinterLoopable.uasset",
+				"/home/spencer/Documents/Unreal Projects/CSC281/CSC281/Content/Sounds/background_music/UI/every_xmas_merry_xmas.uasset",
+				"/home/spencer/Documents/Unreal Projects/CSC281/CSC281/Content/UI/GameComplete/GameComplete.uasset",
+				"/home/spencer/Documents/Unreal Projects/CSC281/CSC281/Content/Sounds/punching_sound/qubodupPunch02.uasset",
+				"/home/spencer/Documents/Unreal Projects/CSC281/CSC281/Content/Sounds/punching_sound/qubodupPunch03.uasset",
+				"/home/spencer/Documents/Unreal Projects/CSC281/CSC281/Content/Sounds/walking_sounds/snow_step_dry-01.uasset",
+				"/home/spencer/Documents/Unreal Projects/CSC281/CSC281/Content/Sounds/walking_sounds/snow_step_dry-02.uasset",
+				"/home/spencer/Documents/Unreal Projects/CSC281/CSC281/Content/Sounds/walking_sounds/snow_step_dry-03.uasset",
+				"/home/spencer/Documents/Unreal Projects/CSC281/CSC281/Content/Sounds/walking_sounds/snow_step_dry-04.uasset",
+				"/home/spencer/Documents/Unreal Projects/CSC281/CSC281/Content/Blueprints/MainGameMode.uasset",
+				"/home/spencer/Documents/Unreal Projects/CSC281/CSC281/Content/Maps/Map_1.umap",
+				"/home/spencer/Documents/Unreal Projects/CSC281/CSC281/Content/HUD/HealthBar.uasset",
+				"/home/spencer/Documents/Unreal Projects/CSC281/CSC281/Content/Blueprints/BP_ElfCharacter2.uasset"
 			]
 		}
 	]
