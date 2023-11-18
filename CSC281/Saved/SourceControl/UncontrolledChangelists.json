@@ -8,7 +8,18 @@
 				"/home/spencer/Documents/Unreal Projects/CSC281/CSC281/Content/UI/ArguingMenu.uasset",
 				"/home/spencer/Documents/Unreal Projects/CSC281/CSC281/Content/UI/SantaStaringMenu.uasset",
 				"/home/spencer/Documents/Unreal Projects/CSC281/CSC281/Content/UI/StealingMenu.uasset",
-				"/home/spencer/Documents/Unreal Projects/CSC281/CSC281/Content/UI/MainMenu.uasset"
+				"/home/spencer/Documents/Unreal Projects/CSC281/CSC281/Content/UI/MainMenu.uasset",
+				"/home/spencer/Documents/Unreal Projects/CSC281/CSC281/Content/UI/BackstoryMenu.uasset",
+				"/home/spencer/Documents/Unreal Projects/CSC281/CSC281/Content/UI/ElvesStealingReindeer.uasset",
+				"/home/spencer/Documents/Unreal Projects/CSC281/CSC281/Content/UI/SantaElfArguing.uasset",
+				"/home/spencer/Documents/Unreal Projects/CSC281/CSC281/Content/UI/SantaStaring.uasset",
+				"/home/spencer/Documents/Unreal Projects/CSC281/CSC281/Content/Maps/GameCompleteMenuLevel.umap",
+				"/home/spencer/Documents/Unreal Projects/CSC281/CSC281/Content/UI/GameComplete/CompleteGameMode.uasset",
+				"/home/spencer/Documents/Unreal Projects/CSC281/CSC281/Content/UI/GameComplete/CompleteMenu.uasset",
+				"/home/spencer/Documents/Unreal Projects/CSC281/CSC281/Content/UI/GameComplete/CreditsMenu.uasset",
+				"/home/spencer/Documents/Unreal Projects/CSC281/CSC281/Content/Maps/CompleteMenuLevel.umap",
+				"/home/spencer/Documents/Unreal Projects/CSC281/CSC281/Content/Blueprints/BP_Yeti.uasset",
+				"/home/spencer/Documents/Unreal Projects/CSC281/CSC281/Content/Blueprints/BP_SpriteCharacter.uasset"
 			]
 		}
 	]
