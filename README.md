@@ -3,6 +3,8 @@ CSC 281 Project
 
 Sources:
 - https://opengameart.org/content/winter-platformer-game-tileset
+- https://opengameart.org/content/santa-claus-free-sprites
+- https://elthen.itch.io/2d-pixel-art-santa-sprites?download
 - https://opengameart.org/content/lpc-santa
 - https://stock.adobe.com/search?k=%22santa+claus+family%22&asset_id=461536424
 - https://opengameart.org/content/sunny-land-2d-pixel-art-pack
